@@ -116,7 +116,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
         "language": "Shell",
-        "last_update": "2021-02-07T01:31:06Z",
+        "last_update": "2021-02-08T17:46:45Z",
         "properties": {
             "id": "busybox-ndk",
             "name": "Busybox for Android NDK",
@@ -493,7 +493,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware",
         "language": "Shell",
-        "last_update": "2020-12-23T02:21:46Z",
+        "last_update": "2021-02-08T15:41:11Z",
         "properties": {
             "id": "wirelessFirmware",
             "name": "Wireless Firmware for Nethunter",
@@ -1103,7 +1103,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/optmizedgpsconf",
         "language": "Shell",
-        "last_update": "2021-01-26T00:14:03Z",
+        "last_update": "2021-02-08T16:57:40Z",
         "properties": {
             "id": "optmizedgpsconf",
             "name": "Global Optimized GPS File Replacer",
