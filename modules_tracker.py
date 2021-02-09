@@ -57,16 +57,19 @@ def gen_file():
     # iterate for all repos in organisation
     for repo in repos:
         name = repo["name"]
+        # we don't need 'submission' repo in file
+        if name == "submission":
+            continue
         branch = repo["default_branch"]
         url = repo["clone_url"].replace(".git", "")
         language = repo["language"]
-        last_update = repo["updated_at"]
+        last_updated = repo["pushed_at"]
         tmp_dict = {
             "name": name,
             "branch": branch,
             "url": url,
             "language": language,
-            "last_update": last_update,
+            "last_updated": last_updated,
             "properties": {},
         }
         build_props = read_prop(module_prop.format(name, branch))
