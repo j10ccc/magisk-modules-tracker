@@ -7,6 +7,6 @@
 
 A simple repo which tracks magisk modules from the official organisation.
 
-Script runs automatically using Github Actions every 12 hours.
+Script runs automatically using Github Actions once a day.
 
 Tracker list is <a href="https://github.com/DivideTrackers/magisk-modules-tracker/blob/main/modules.json">here</a>

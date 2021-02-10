@@ -1,6 +1,5 @@
-[
-    {
-        "name": "terminal_debloater",
+{
+    "terminal_debloater": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/terminal_debloater",
         "language": "Shell",
@@ -14,8 +13,7 @@
             "description": "Debloat your device Systemless-ly! With choices for debloating in Terminal Emulator for every device."
         }
     },
-    {
-        "name": "Fdroid-Priv",
+    "Fdroid-Classic-Priv": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv",
         "language": "Shell",
@@ -29,8 +27,7 @@
             "description": "Installs F-Droid Privileged Extension systemlessly"
         }
     },
-    {
-        "name": "terminal_systemizer",
+    "terminal_systemizer": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/terminal_systemizer",
         "language": "Shell",
@@ -45,8 +42,7 @@
             "minMagisk": "18000"
         }
     },
-    {
-        "name": "Systemless_TZData",
+    "Systemless_TZData": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Systemless_TZData",
         "language": "Shell",
@@ -60,8 +56,7 @@
             "description": "Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions."
         }
     },
-    {
-        "name": "HEVCEnabler",
+    "HEVCEnabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HEVCEnabler",
         "language": "Shell",
@@ -75,8 +70,7 @@
             "description": "Enable the HEVC(High Efficiency Video Codec) on OnePlus 3/3T and 5 with stock bitrate and 60fps video recording and Slow Motion in Google Camera."
         }
     },
-    {
-        "name": "adb-ndk",
+    "adb-ndk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/adb-ndk",
         "language": "Shell",
@@ -93,8 +87,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "adreno-dev",
+    "adreno-dev": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/adreno-dev",
         "language": "Shell",
@@ -111,8 +104,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "busybox-ndk",
+    "busybox-ndk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
         "language": "Shell",
@@ -129,8 +121,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "nano-ndk",
+    "nano-ndk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/nano-ndk",
         "language": "Shell",
@@ -147,8 +138,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "nexusmedia",
+    "nexusmedia": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/nexusmedia",
         "language": "Shell",
@@ -165,8 +155,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "airaudio",
+    "airaudio": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/airaudio",
         "language": "Shell",
@@ -180,8 +169,7 @@
             "description": "This module enables AirAudio's/AirMusic's \"system-mode\" and allows you to stream all your audio to any network-enabled receiver."
         }
     },
-    {
-        "name": "ainur_jamesdsp",
+    "ainur_jamesdsp": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ainur_jamesdsp",
         "language": "Shell",
@@ -196,8 +184,7 @@
             "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970"
         }
     },
-    {
-        "name": "ViPER4AndroidFX-Legacy",
+    "ViPER4AndroidFX-Legacy": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidFX-Legacy",
         "language": "Shell",
@@ -212,8 +199,7 @@
             "support": "https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058"
         }
     },
-    {
-        "name": "ainur_narsil",
+    "ainur_narsil": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ainur_narsil",
         "language": "Shell",
@@ -227,8 +213,7 @@
             "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer."
         }
     },
-    {
-        "name": "wifi-bonding",
+    "wifi-bonding": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/wifi-bonding",
         "language": "Shell",
@@ -242,8 +227,7 @@
             "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini."
         }
     },
-    {
-        "name": "mm",
+    "mm": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/mm",
         "language": "Shell",
@@ -258,8 +242,7 @@
             "minMagisk": "17000"
         }
     },
-    {
-        "name": "active_edge_system_mod",
+    "active_edge_system_mod": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
@@ -273,8 +256,7 @@
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
     },
-    {
-        "name": "aml",
+    "aml": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/aml",
         "language": "Shell",
@@ -289,8 +271,7 @@
             "support": "https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612"
         }
     },
-    {
-        "name": "ExSDCard",
+    "ExSDCard": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ExSDCard",
         "language": "Shell",
@@ -304,8 +285,7 @@
             "description": "Enables external SDCard write access for your Apps on Nougat and Oreo, including Oreo dedicated feature ! New path for your sdcard: \"/mnt/media_rw/\"."
         }
     },
-    {
-        "name": "MagiskHidePropsConf",
+    "MagiskHidePropsConf": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
@@ -319,8 +299,7 @@
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
         }
     },
-    {
-        "name": "CloudflareDNS4Magisk",
+    "CloudflareDNS4Magisk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk",
         "language": "Shell",
@@ -334,8 +313,7 @@
             "description": "Using the new Cloudflare DNS system-lessy! As simple as that."
         }
     },
-    {
-        "name": "acp",
+    "acp": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/acp",
         "language": "Shell",
@@ -350,8 +328,7 @@
             "support": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067"
         }
     },
-    {
-        "name": "KaliNethunter",
+    "KaliNethunter": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/KaliNethunter",
         "language": "Shell",
@@ -366,8 +343,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "movecert",
+    "movecert": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/movecert",
         "language": "Shell",
@@ -381,8 +357,7 @@
             "description": "Moves certificates from the user certificate store to the system store. Removes the *Network may be monitored* warning."
         }
     },
-    {
-        "name": "liboemcryptodisabler",
+    "liboemcryptodisabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/liboemcryptodisabler",
         "language": "Shell",
@@ -396,8 +371,7 @@
             "description": "Disables liboemcrypto.so on rooted devices to allow DRM-protected content to play (e.g. Netflix, My5, etc.)."
         }
     },
-    {
-        "name": "ViPER4AndroidXHiFi",
+    "ViPER4AndroidXHiFi": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ViPER4AndroidXHiFi",
         "language": "Shell",
@@ -413,8 +387,7 @@
             "minMagisk": "1530"
         }
     },
-    {
-        "name": "CloudflareDNS4Magisk-IPv6",
+    "CloudflareDNS4Magisk-IPv6": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/CloudflareDNS4Magisk-IPv6",
         "language": "Shell",
@@ -428,8 +401,7 @@
             "description": "Using the new Cloudflare DNS by Magisk! As simple as that."
         }
     },
-    {
-        "name": "energizedprotection",
+    "energizedprotection": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/energizedprotection",
         "language": "Shell",
@@ -443,8 +415,7 @@
             "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro"
         }
     },
-    {
-        "name": "sqlite3",
+    "sqlite3": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/sqlite3",
         "language": "Shell",
@@ -458,8 +429,7 @@
             "description": "Provides a statically linked sqlite3 binary for ARM aarch64 devices"
         }
     },
-    {
-        "name": "ssh",
+    "ssh": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ssh",
         "language": "Shell",
@@ -473,8 +443,7 @@
             "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk"
         }
     },
-    {
-        "name": "terminalmods",
+    "terminalmods": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/terminalmods",
         "language": "Shell",
@@ -488,8 +457,7 @@
             "description": "Android terminal - The way it should be"
         }
     },
-    {
-        "name": "wirelessFirmware",
+    "wirelessFirmware": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/wirelessFirmware",
         "language": "Shell",
@@ -503,8 +471,7 @@
             "description": "This module adds the required firmware for external wireless adapters to be used with NetHunter."
         }
     },
-    {
-        "name": "twrp-keep",
+    "twrp-keep": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/twrp-keep",
         "language": "Shell",
@@ -521,8 +488,7 @@
             "minMagisk": "1500"
         }
     },
-    {
-        "name": "libsecure_storage",
+    "libsecure_storage": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/libsecure_storage",
         "language": "Shell",
@@ -536,8 +502,7 @@
             "description": "Modified system libraries to restore retention of Bluetooth pairings on various rooted Samsung devices."
         }
     },
-    {
-        "name": "GoogleDialerFramework",
+    "GoogleDialerFramework": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/GoogleDialerFramework",
         "language": "Shell",
@@ -551,8 +516,7 @@
             "description": "Framework for installing the Google Dialer aka Google Phone on Android"
         }
     },
-    {
-        "name": "ASUS-Style-Suite",
+    "ASUS-Style-Suite": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ASUS-Style-Suite",
         "language": "Shell",
@@ -566,8 +530,7 @@
             "description": "ROG Phone Apps Ports - Live Wallpaper + Camera ported for Magisk"
         }
     },
-    {
-        "name": "vold-posix",
+    "vold-posix": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/vold-posix",
         "language": "Shell",
@@ -581,8 +544,7 @@
             "description": "Add exfat/ntfs/ext4/f2fs filesystem support for external sdcard. Only for AOSP-like system. (f2fs only available if your kernel support it.)"
         }
     },
-    {
-        "name": "motoclockwidget",
+    "motoclockwidget": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/motoclockwidget",
         "language": "Shell",
@@ -596,8 +558,7 @@
             "description": "Systemless install Motorola Clock widget"
         }
     },
-    {
-        "name": "apt-x",
+    "apt-x": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/apt-x",
         "language": "Shell",
@@ -611,8 +572,7 @@
             "description": "Add APTX libraries to system. Adroid 8+ should work."
         }
     },
-    {
-        "name": "disable-screenshot-camera-sounds",
+    "disable-screenshot-camera-sounds": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/disable-screenshot-camera-sounds",
         "language": "Shell",
@@ -626,8 +586,7 @@
             "description": "Systemlessly disable both screenshot and camera sounds(added android 10 support @compliment)"
         }
     },
-    {
-        "name": "Pix3lify",
+    "Pix3lify": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Pix3lify",
         "language": "Shell",
@@ -643,8 +602,7 @@
             "donate": "https://www.paypal.me/joeyhuab"
         }
     },
-    {
-        "name": "sony-device-dummy",
+    "sony-device-dummy": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/sony-device-dummy",
         "language": "Shell",
@@ -658,8 +616,7 @@
             "description": "Add dummy Sony device libraries for Walkman, Album, Weather and other sony apps. Please read the readme first."
         }
     },
-    {
-        "name": "Detach",
+    "Detach": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
@@ -673,8 +630,7 @@
             "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk."
         }
     },
-    {
-        "name": "callrecorder-skvalex",
+    "callrecorder-skvalex": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex",
         "language": "Shell",
@@ -688,8 +644,7 @@
             "description": "App to record phone calls from the line with a power of root and magisk"
         }
     },
-    {
-        "name": "Oxy-ify",
+    "Oxy-ify": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Oxy-ify",
         "language": "Shell",
@@ -703,8 +658,7 @@
             "description": "Get Oxygen OS apps, custom media and OnePlus Slate font."
         }
     },
-    {
-        "name": "djs",
+    "djs": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/djs",
         "language": "Shell",
@@ -718,8 +672,7 @@
             "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. A recent stable Magisk version is recommended. Refer to README.md for details. If you are in Magisk Manager > Downloads, click here to open the documentation."
         }
     },
-    {
-        "name": "IPControl",
+    "IPControl": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/IPControl",
         "language": "Shell",
@@ -733,8 +686,7 @@
             "description": "Completely native input power control tool written purely in C++ for performance and stability"
         }
     },
-    {
-        "name": "v2ray",
+    "v2ray": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/v2ray",
         "language": "Shell",
@@ -748,8 +700,7 @@
             "description": "V2ray core with service scripts for Android"
         }
     },
-    {
-        "name": "quickstepswitcher",
+    "quickstepswitcher": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher",
         "language": "Shell",
@@ -763,8 +714,7 @@
             "description": "Pie recents for any supported launcher"
         }
     },
-    {
-        "name": "com.catchingnow.icebox",
+    "com.catchingnow.icebox": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/com.catchingnow.icebox",
         "language": "Shell",
@@ -779,8 +729,7 @@
             "support": "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
         }
     },
-    {
-        "name": "foxy-boot",
+    "foxy-boot": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/foxy-boot",
         "language": "Shell",
@@ -795,8 +744,7 @@
             "support": "https://github.com/kitsunyan/foxy-boot"
         }
     },
-    {
-        "name": "zipsigner",
+    "zipsigner": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/zipsigner",
         "language": "Shell",
@@ -813,8 +761,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "logcat",
+    "logcat": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/logcat",
         "language": "Shell",
@@ -828,8 +775,7 @@
             "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808."
         }
     },
-    {
-        "name": "xposed",
+    "xposed": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/xposed",
         "language": "Shell",
@@ -843,8 +789,7 @@
             "description": "The official Xposed Framework, packaged by @topjohnwu"
         }
     },
-    {
-        "name": "ARCore_enabler",
+    "ARCore_enabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ARCore_enabler",
         "language": "Shell",
@@ -858,8 +803,7 @@
             "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons."
         }
     },
-    {
-        "name": "riru-core",
+    "riru-core": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
@@ -873,8 +817,7 @@
             "description": "Inject into zygote process. Required by all \"Riru\" modules."
         }
     },
-    {
-        "name": "acc",
+    "acc": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/acc",
         "language": "Shell",
@@ -889,8 +832,7 @@
             "description": "ACC is an Android software mainly intended for extending battery service life. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"systemless\", whether or not the system is rooted with Magisk. If you're reading this from Magisk Manager > Downloads, tap here to open the documentation. Once there, if you feel lazy, scroll down to the quick start section."
         }
     },
-    {
-        "name": "riru_edxposed",
+    "riru_edxposed": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_edxposed",
         "language": "Shell",
@@ -906,8 +848,7 @@
             "minApi": "10"
         }
     },
-    {
-        "name": "xmlpak",
+    "xmlpak": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/xmlpak",
         "language": "Shell",
@@ -921,8 +862,7 @@
             "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed."
         }
     },
-    {
-        "name": "OneController",
+    "OneController": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/OneController",
         "language": "Shell",
@@ -936,8 +876,7 @@
             "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox One/S, Xbox 360."
         }
     },
-    {
-        "name": "riru_location_report_enabler",
+    "riru_location_report_enabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler",
         "language": "Shell",
@@ -951,8 +890,7 @@
             "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages."
         }
     },
-    {
-        "name": "sap",
+    "sap": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/sap",
         "language": "Shell",
@@ -966,8 +904,7 @@
             "description": "Simple module to add some system accent theme colors to your android P custom rom, after flash though magisk and reboot go to Settings> Display> Color theme. Files are pushed to /vendor/overlay."
         }
     },
-    {
-        "name": "kfmark",
+    "kfmark": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/kfmark",
         "language": "Shell",
@@ -981,8 +918,7 @@
             "description": "A module can enable KFMark when device start."
         }
     },
-    {
-        "name": "ViPER4Android-FX",
+    "ViPER4AndroidFX": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ViPER4Android-FX",
         "language": "Shell",
@@ -997,8 +933,7 @@
             "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651"
         }
     },
-    {
-        "name": "disable-mdnsd",
+    "disable-mdnsd": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/disable-mdnsd",
         "language": "Shell",
@@ -1012,8 +947,7 @@
             "description": "Systemlessly disable multicast DNS daemon"
         }
     },
-    {
-        "name": "twrp-helper",
+    "twrp-helper": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/twrp-helper",
         "language": "Shell",
@@ -1027,8 +961,7 @@
             "description": "This module provides dynamic, in-situ patching of the device's TWRP recovery image to include Internal Storage in future Data back-ups."
         }
     },
-    {
-        "name": "PS4RE",
+    "PS4RE": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/PS4RE",
         "language": "Shell",
@@ -1042,8 +975,7 @@
             "description": "For non-Sony devices enable PS4 Remote Play from PlayStore"
         }
     },
-    {
-        "name": "hidden_settings",
+    "hidden_settings": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/hidden_settings",
         "language": "Shell",
@@ -1057,8 +989,7 @@
             "description": "A graphical interface to modify settings via terminal."
         }
     },
-    {
-        "name": "G-VisualMod",
+    "gvisualmod": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/G-VisualMod",
         "language": "Shell",
@@ -1073,8 +1004,7 @@
             "support": "Gnonymous7 @ XDA & Telegram"
         }
     },
-    {
-        "name": "com.piyushgarg.rclone",
+    "com.piyushgarg.rclone": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
         "language": "Shell",
@@ -1090,8 +1020,7 @@
             "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info."
         }
     },
-    {
-        "name": "optmizedgpsconf",
+    "optmizedgpsconf": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/optmizedgpsconf",
         "language": "Shell",
@@ -1105,8 +1034,7 @@
             "description": "This module replaces the default GPS copnfiguration file with one set for faster locking and more accurate "
         }
     },
-    {
-        "name": "OneUISounds",
+    "OneUISounds": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/OneUISounds",
         "language": "Shell",
@@ -1120,8 +1048,7 @@
             "description": "One UI system sounds"
         }
     },
-    {
-        "name": "AppOpsPlugin",
+    "AppOpsPlugin": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/AppOpsPlugin",
         "language": "Shell",
@@ -1135,8 +1062,7 @@
             "description": "Enable System Plugin mode of App Ops by Rikka (works on pre-Pie)."
         }
     },
-    {
-        "name": "aria2c",
+    "aria2c": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/aria2c",
         "language": "Shell",
@@ -1150,8 +1076,7 @@
             "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture."
         }
     },
-    {
-        "name": "miui-10-sounds",
+    "miui-10-sounds": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/miui-10-sounds",
         "language": "Shell",
@@ -1166,8 +1091,7 @@
             "minMagisk": "17000"
         }
     },
-    {
-        "name": "mtd-ndk",
+    "mtd-ndk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/mtd-ndk",
         "language": "Shell",
@@ -1184,8 +1108,7 @@
             "template": "1500"
         }
     },
-    {
-        "name": "miracast-enabler",
+    "miracast-enabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/miracast-enabler",
         "language": "Shell",
@@ -1199,8 +1122,7 @@
             "description": "Enables Miracast screen mirroring on Pie. Not tested on non-Pixel devices."
         }
     },
-    {
-        "name": "noneDisplayCutout",
+    "noneDisplayCutout": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/noneDisplayCutout",
         "language": "Shell",
@@ -1214,8 +1136,7 @@
             "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808."
         }
     },
-    {
-        "name": "bromitewebview",
+    "bromitewebview": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
@@ -1229,8 +1150,7 @@
             "description": "Switch System WebView and default browser systemless-ly, on any ROM! You can block ads and fingerprinting, increase privacy, and more!"
         }
     },
-    {
-        "name": "PIXELARITY",
+    "PIXELARITY": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/PIXELARITY",
         "language": "Shell",
@@ -1244,8 +1164,7 @@
             "description": "Contains pixel exclusives, fix and tweaks to boost user experience on devices running Android 9/10"
         }
     },
-    {
-        "name": "riru_storage_redirect",
+    "riru_storage_redirect": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
@@ -1259,8 +1178,7 @@
             "description": "Enable Enhanced mode for Storage Isolation app. Storage Isolation is an app provides app storage isolation feature."
         }
     },
-    {
-        "name": "zsh_arm64",
+    "zsh_arm64": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/zsh_arm64",
         "language": "Shell",
@@ -1275,8 +1193,7 @@
             "minMagisk": "1700"
         }
     },
-    {
-        "name": "benchkit",
+    "benchkit": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/benchkit",
         "language": "Shell",
@@ -1291,8 +1208,7 @@
             "support": "https://t.me/kdrag0n"
         }
     },
-    {
-        "name": "wifi5ghzdisabler",
+    "wifi5ghzdisabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/wifi5ghzdisabler",
         "language": "Shell",
@@ -1306,8 +1222,7 @@
             "description": "Disable WiFi 5Ghz Band on your Qualcomm device"
         }
     },
-    {
-        "name": "riru_ifw_enhance",
+    "riru_ifw_enhance": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance",
         "language": "Shell",
@@ -1321,8 +1236,7 @@
             "description": "A module of Riru. Enhance intent firewall."
         }
     },
-    {
-        "name": "clash_for_magisk",
+    "clash_for_magisk": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/clash_for_magisk",
         "language": "Shell",
@@ -1336,8 +1250,7 @@
             "description": "A rule-based tunnel in Go."
         }
     },
-    {
-        "name": "mgskfixes",
+    "mgskfixes": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/mgskfixes",
         "language": "Shell",
@@ -1351,8 +1264,7 @@
             "description": "A few fixes for Magisk, focusing on GSI compatibility with magisk."
         }
     },
-    {
-        "name": "WDAnimationcxair",
+    "WDAnimationcxair": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair",
         "language": "Shell",
@@ -1368,8 +1280,7 @@
             "Follow": "https://t.me/MGStoreEthiopia"
         }
     },
-    {
-        "name": "magisk-frida",
+    "magisk-frida": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
@@ -1383,8 +1294,7 @@
             "description": "Run frida-server on boot"
         }
     },
-    {
-        "name": "adreno-630-gpu-driver",
+    "adreno-630-gpu-driver": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/adreno-630-gpu-driver",
         "language": "Shell",
@@ -1398,8 +1308,7 @@
             "description": "Latest GPU driver for Adreno 630 (SDM845)."
         }
     },
-    {
-        "name": "dnscrypt-proxy2",
+    "dnscrypt-proxy2": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/dnscrypt-proxy2",
         "language": "Shell",
@@ -1413,8 +1322,7 @@
             "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44"
         }
     },
-    {
-        "name": "HideGesBar",
+    "HideGesBar": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideGesBar",
         "language": "Shell",
@@ -1428,8 +1336,7 @@
             "description": "Enable immersive gestural navigation bar for Android 10."
         }
     },
-    {
-        "name": "HideNavBar",
+    "HideNavBar": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
@@ -1443,8 +1350,7 @@
             "description": "Customize Android 10-11's navigation gestures "
         }
     },
-    {
-        "name": "microG_installer",
+    "microg_installer": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
@@ -1458,8 +1364,7 @@
             "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app"
         }
     },
-    {
-        "name": "aospill",
+    "aospill": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/aospill",
         "language": "Shell",
@@ -1473,8 +1378,7 @@
             "description": "AOSP Pill for Oxygen OS 10"
         }
     },
-    {
-        "name": "oosbar",
+    "oosbar": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/oosbar",
         "language": "Shell",
@@ -1488,8 +1392,7 @@
             "description": "Oxygen OS Gesture Bar for AOSP 10/11 devices"
         }
     },
-    {
-        "name": "sonymusic",
+    "sonymusic": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/sonymusic",
         "language": "Shell",
@@ -1503,8 +1406,7 @@
             "description": " Enable's Sony Music App and Playstore Updatable Install Sony Music From Playstore."
         }
     },
-    {
-        "name": "overlayfix",
+    "overlayfix": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/overlayfix",
         "language": "Shell",
@@ -1518,8 +1420,7 @@
             "description": "Fixes overlay mounting problems conflicting with magisk (often seen in with /product)"
         }
     },
-    {
-        "name": "NfcScreenOff",
+    "NFCScreenOff": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff",
         "language": "Shell",
@@ -1533,8 +1434,7 @@
             "description": "Read NFC tags when screen is off. [BETA] Tap to pay when screen is off."
         }
     },
-    {
-        "name": "BluetoothLibraryPatcher",
+    "BluetoothLibraryPatcher": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
@@ -1548,8 +1448,7 @@
             "description": "Magisk module avoiding loss of bluetooth pairings after reboot or airplane mode switch on rooted samsung devices."
         }
     },
-    {
-        "name": "riru_clipboard_whitelist",
+    "riru_clipboard_whitelist": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist",
         "language": "Shell",
@@ -1563,8 +1462,7 @@
             "description": "A module of Riru. Add clipboard whitelist to Android 10."
         }
     },
-    {
-        "name": "xposed_dalvik",
+    "xposed_dalvik": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/xposed_dalvik",
         "language": "Shell",
@@ -1578,8 +1476,7 @@
             "description": "The official Dalvik Xposed Framework, packaged by @MlgmXyysd. Supports Android 4.2, 4.3, 4.4, 4.4W. Telegram: @EdXposed"
         }
     },
-    {
-        "name": "ccbins",
+    "ccbins": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ccbins",
         "language": "Shell",
@@ -1593,8 +1490,7 @@
             "description": "A growing collection of cross compiled binaries for android"
         }
     },
-    {
-        "name": "tcpdump_static_aarch64",
+    "tcpdump_static_aarch64": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/tcpdump_static_aarch64",
         "language": "Shell",
@@ -1608,8 +1504,7 @@
             "description": "Add the static AARCH64 Tcpdump binary - a command-line tool for capturing network packets from the device's network interfaces."
         }
     },
-    {
-        "name": "callrecorder-axet",
+    "callrecorder-axet": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/callrecorder-axet",
         "language": "Shell",
@@ -1623,8 +1518,7 @@
             "description": "Record calls with axet's Call Recorder (compatible with F-Droid updates)"
         }
     },
-    {
-        "name": "magisk-drm-disabler",
+    "magisk-drm-disabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-drm-disabler",
         "language": "Shell",
@@ -1640,8 +1534,7 @@
             "minMagisk": "2000"
         }
     },
-    {
-        "name": "ctenabler",
+    "ctenabler": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ctenabler",
         "language": "Shell",
@@ -1655,8 +1548,7 @@
             "description": "Let New foreign devices support China Telecom"
         }
     },
-    {
-        "name": "riru-sui",
+    "riru-sui": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
@@ -1670,8 +1562,7 @@
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
     },
-    {
-        "name": "riru_lsposed",
+    "riru_lsposed": {
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
@@ -1687,4 +1578,4 @@
             "minApi": "10"
         }
     }
-]
+}

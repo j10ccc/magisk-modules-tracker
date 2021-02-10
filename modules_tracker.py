@@ -8,7 +8,21 @@ from datetime import datetime
 
 org_name = "Magisk-Modules-Repo"
 api_url = "https://api.github.com"
-module_prop = f"https://raw.githubusercontent.com/{org_name}/{{}}/{{}}/module.prop"
+module_prop = f"https://cdn.jsdelivr.net/gh/{org_name}/{{}}@{{}}/module.prop"
+
+
+def time_formatter(seconds: int) -> str:
+    result = ""
+    v_m = 0
+    remainder = seconds
+    r_ange_s = {"days": (24 * 60 * 60), "hours": (60 * 60), "minutes": 60, "seconds": 1}
+    for age in r_ange_s:
+        divisor = r_ange_s[age]
+        v_m, remainder = divmod(remainder, divisor)
+        v_m = int(v_m)
+        if v_m != 0:
+            result += f" {v_m} {age} "
+    return result
 
 
 def read_prop(url):
@@ -28,14 +42,14 @@ def push_files():
     now = datetime.now().strftime("%d/%m/%y %H:%M:%S")
     run(["git", "config", "user.name", '"Divkix"'])
     run(["git", "config", "user.email", '"techdroidroot@gmail.com"'])
-    run(["git", "add", "modules.json"])
+    run(["git", "add", "modules.json", "by_id.json"])
     run(["git", "commit", "-m", f"Automated Sync: {now}"])
     run(["git", "push"])
     print("Pushed to remote")
 
 
 def get_api_data():
-    print("Getting data from official api...")
+    print("Getting data from Official API...")
     data = get(f"{api_url}/orgs/{org_name}").json()
     total_repos = data["public_repos"]
     pages_req = ceil(total_repos / 10)
@@ -46,13 +60,18 @@ def get_api_data():
     return api_data
 
 
-def gen_file():
+def save_file(filename, details):
+    with open(filename, "w+") as f:
+        dump(details, f, indent=4)
+    print(f"Done generating {filename}")
+    return
+
+
+def gen_modules_json(repos, filename):
     """
-    get data from all the repos
+    generate modules.json file
     """
-    start = time()
-    print("Generating the json file...")
-    repos = get_api_data()
+    print(f"Genarating {filename}")
     details = []
     # iterate for all repos in organisation
     for repo in repos:
@@ -76,24 +95,52 @@ def gen_file():
         for prop in build_props:
             tmp_dict["properties"][prop[0]] = prop[1]
         details.append(tmp_dict)
-        print(f"Added {name}")
+    save_file(filename, details)
 
-    print(f"Total Repos: {len(details)}")
 
-    # Save file
-    with open("modules.json", "w+") as f:
-        dump(details, f, indent=4)
-    print("Done generating file...")
-    total_time = time() - start
-    print(f"Completed in {round(total_time, 2)}")
+def gen_id_json(repos, filename):
+    """
+    generate by_id.json file
+    """
+    print(f"Genarating {filename}")
+    details = {}
+    # iterate for all repos in organisation
+    for repo in repos:
+        name = repo["name"]
+        # we don't need 'submission' repo in file
+        if name == "submission":
+            continue
+        branch = repo["default_branch"]
+        url = repo["clone_url"].replace(".git", "")
+        language = repo["language"]
+        last_updated = repo["pushed_at"]
+        tmp_dict = {
+            "branch": branch,
+            "url": url,
+            "language": language,
+            "last_updated": last_updated,
+            "properties": {},
+        }
+        build_props = read_prop(module_prop.format(name, branch))
+        for prop in build_props:
+            tmp_dict["properties"][prop[0]] = prop[1]
+        id_prop = tmp_dict["properties"]["id"]
+        details[id_prop] = tmp_dict
+
+    save_file(filename, details)
 
 
 def main():
     """
     main script
     """
-    gen_file()
+    start = time()
+    rep_data = get_api_data()
+    gen_modules_json(rep_data, "modules.json")
+    gen_id_json(rep_data, "by_id.json")
     push_files()
+    total_time = time_formatter(int(time() - start))
+    print(f"Completed in {total_time}")
 
 
 if __name__ == "__main__":
