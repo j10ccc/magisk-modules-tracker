@@ -19,13 +19,13 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv",
         "language": "Shell",
-        "last_updated": "2021-02-09T06:18:03Z",
+        "last_updated": "2021-02-11T14:56:59Z",
         "properties": {
-            "id": "Fdroid-Classic-Priv",
-            "name": "F-Droid Classic Privileged Extension",
-            "version": "2020-12-9",
-            "versionCode": "20",
-            "author": "daemonspudguy/Ryaniskira",
+            "id": "Fdroid-Priv",
+            "name": "F-Droid Privileged Extension",
+            "version": "2019-11-23",
+            "versionCode": "18",
+            "author": "Ryaniskira",
             "description": "Installs F-Droid Privileged Extension systemlessly"
         }
     },
@@ -863,12 +863,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-01-23T07:44:52Z",
+        "last_updated": "2021-02-11T09:47:12Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v23.4",
-            "versionCode": "54",
+            "version": "v23.5",
+            "versionCode": "55",
             "author": "Rikka",
             "description": "Inject into zygote process. Required by all \"Riru\" modules."
         }
@@ -1249,12 +1249,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-01-12T05:52:04Z",
+        "last_updated": "2021-02-11T10:35:00Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
-            "version": "v23.5",
-            "versionCode": "55",
+            "version": "v23.6",
+            "versionCode": "56",
             "author": "Rikka",
             "description": "Enable Enhanced mode for Storage Isolation app. Storage Isolation is an app provides app storage isolation feature."
         }
@@ -1660,12 +1660,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-07T04:46:09Z",
+        "last_updated": "2021-02-11T09:45:04Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.1.r85.2adf3fc",
-            "versionCode": "85",
+            "version": "v11.4.2.r87.a54303b",
+            "versionCode": "87",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
