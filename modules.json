@@ -1091,21 +1091,6 @@
         }
     },
     {
-        "name": "optmizedgpsconf",
-        "branch": "master",
-        "url": "https://github.com/Magisk-Modules-Repo/optmizedgpsconf",
-        "language": "Shell",
-        "last_updated": "2020-05-08T16:39:52Z",
-        "properties": {
-            "id": "optmizedgpsconf",
-            "name": "Global Optimized GPS File Replacer",
-            "version": "v6",
-            "versionCode": "6",
-            "author": "ianhughes74 and lazerl0rd",
-            "description": "This module replaces the default GPS copnfiguration file with one set for faster locking and more accurate "
-        }
-    },
-    {
         "name": "OneUISounds",
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/OneUISounds",
