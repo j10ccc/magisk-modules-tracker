@@ -1568,12 +1568,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ccbins",
         "language": "Shell",
-        "last_updated": "2020-10-20T20:40:28Z",
+        "last_updated": "2021-02-13T20:55:00Z",
         "properties": {
             "id": "ccbins",
             "name": "Cross Compiled Binaries",
-            "version": "v7.0",
-            "versionCode": "7",
+            "version": "v7.1",
+            "versionCode": "8",
             "author": "Zackptg5",
             "description": "A growing collection of cross compiled binaries for android"
         }
@@ -1645,12 +1645,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-11T09:45:04Z",
+        "last_updated": "2021-02-13T18:43:40Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.2.r87.a54303b",
-            "versionCode": "87",
+            "version": "v11.4.3.r90.910959d",
+            "versionCode": "90",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
@@ -1660,7 +1660,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-02-06T11:06:56Z",
+        "last_updated": "2021-02-13T07:31:24Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
