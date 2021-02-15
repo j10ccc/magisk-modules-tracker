@@ -1254,7 +1254,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/WDAnimationcxair",
         "language": "Shell",
-        "last_updated": "2020-10-10T11:04:51Z",
+        "last_updated": "2021-02-14T05:47:02Z",
         "properties": {
             "id": "WDAnimationcxair",
             "name": "BootAMoji Switcher",
@@ -1538,12 +1538,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-13T18:43:40Z",
+        "last_updated": "2021-02-14T03:15:51Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.3.r90.910959d",
-            "versionCode": "90",
+            "version": "v11.4.3.r91.97b2373",
+            "versionCode": "91",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
@@ -1552,12 +1552,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-02-13T07:31:24Z",
+        "last_updated": "2021-02-14T16:46:25Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v0.5.4.0",
-            "versionCode": "5135",
+            "version": "v0.5.4.1",
+            "versionCode": "5175",
             "author": "LSPosed Developers",
             "api": "93",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed.",
