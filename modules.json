@@ -309,7 +309,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-02-17T13:04:23Z",
+        "last_updated": "2021-02-19T10:12:09Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -678,12 +678,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex",
         "language": "Shell",
-        "last_updated": "2021-01-18T13:10:40Z",
+        "last_updated": "2021-02-19T15:17:18Z",
         "properties": {
             "id": "callrecorder-skvalex",
             "name": "Call Recorder - SKVALEX",
-            "version": "2.1.0 (3.4.3-1)",
-            "versionCode": "33",
+            "version": "2.1.0 (3.4.4)",
+            "versionCode": "34",
             "author": "skvalex",
             "description": "App to record phone calls from the line with a power of root and magisk"
         }
@@ -1358,12 +1358,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-02-09T23:19:35Z",
+        "last_updated": "2021-02-19T00:32:51Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.12-1",
-            "versionCode": "142121",
+            "version": "14.2.13-1",
+            "versionCode": "142131",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
@@ -1645,12 +1645,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-14T03:15:51Z",
+        "last_updated": "2021-02-19T14:21:46Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.3.r91.97b2373",
-            "versionCode": "91",
+            "version": "v11.4.4.r95.4d164cf",
+            "versionCode": "95",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
