@@ -863,12 +863,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-02-11T09:47:12Z",
+        "last_updated": "2021-02-21T15:37:05Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v23.5",
-            "versionCode": "55",
+            "version": "v23.6",
+            "versionCode": "56",
             "author": "Rikka",
             "description": "Inject into zygote process. Required by all \"Riru\" modules."
         }
@@ -1645,12 +1645,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-19T14:21:46Z",
+        "last_updated": "2021-02-21T12:12:27Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.4.r95.4d164cf",
-            "versionCode": "95",
+            "version": "v11.4.5.r98.97d6575",
+            "versionCode": "98",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
