@@ -926,12 +926,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/OneController",
         "language": "Shell",
-        "last_updated": "2021-01-05T12:32:35Z",
+        "last_updated": "2021-02-24T11:06:30Z",
         "properties": {
             "id": "OneController",
             "name": "1Controller - 1 Module to support all Controllers.",
-            "version": "v1.5.0",
-            "versionCode": "150",
+            "version": "v1.5.1",
+            "versionCode": "151",
             "author": "Electric1447",
             "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox One/S, Xbox 360."
         }
