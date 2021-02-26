@@ -405,7 +405,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/energizedprotection",
         "language": "Shell",
-        "last_updated": "2020-10-16T04:15:11Z",
+        "last_updated": "2021-02-25T09:13:37Z",
         "properties": {
             "id": "energizedprotection",
             "name": "Energized Protection",
@@ -821,13 +821,13 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/acc",
         "language": "Shell",
-        "last_updated": "2020-11-20T07:37:14Z",
+        "last_updated": "2021-02-25T12:29:47Z",
         "properties": {
             "id": "acc",
             "domain": "vr25",
             "name": "Advanced Charging Controller (ACC)",
-            "version": "v2020.11.20",
-            "versionCode": "202011200",
+            "version": "v2021.2.25",
+            "versionCode": "202102250",
             "author": "VR25",
             "description": "ACC is an Android software mainly intended for extending battery service life. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"systemless\", whether or not the system is rooted with Magisk. If you're reading this from Magisk Manager > Downloads, tap here to open the documentation. Once there, if you feel lazy, scroll down to the quick start section."
         }
