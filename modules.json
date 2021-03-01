@@ -1538,12 +1538,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist",
         "language": "Shell",
-        "last_updated": "2020-11-27T16:21:28Z",
+        "last_updated": "2021-02-28T12:01:13Z",
         "properties": {
             "id": "riru_clipboard_whitelist",
-            "name": "Riru - Clipboard Whitelist",
-            "version": "v6",
-            "versionCode": "6",
+            "name": "Riru - ClipboardWhitelist",
+            "version": "v7",
+            "versionCode": "7",
             "author": "Kr328",
             "description": "A module of Riru. Add clipboard whitelist to Android 10."
         }
@@ -1660,12 +1660,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-02-26T09:53:45Z",
+        "last_updated": "2021-02-28T09:04:00Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.0.2",
-            "versionCode": "5341",
+            "version": "v1.1.0",
+            "versionCode": "5368",
             "author": "LSPosed Developers",
             "api": "93",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed.",
