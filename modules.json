@@ -309,11 +309,11 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-02-22T13:19:37Z",
+        "last_updated": "2021-03-01T22:06:37Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v118",
+            "version": "v5.4.0-v119",
             "versionCode": "68",
             "author": "Didgeridoohan",
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
@@ -1296,12 +1296,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_ifw_enhance",
         "language": "Shell",
-        "last_updated": "2020-11-23T08:26:15Z",
+        "last_updated": "2021-03-01T04:31:04Z",
         "properties": {
             "id": "riru_ifw_enhance",
             "name": "Riru - IFW Enhance",
-            "version": "v5",
-            "versionCode": "5",
+            "version": "v7",
+            "versionCode": "7",
             "author": "Kr328",
             "description": "A module of Riru. Enhance intent firewall."
         }
@@ -1433,12 +1433,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
-        "last_updated": "2021-02-02T08:51:39Z",
+        "last_updated": "2021-03-01T09:49:46Z",
         "properties": {
             "id": "microg_installer",
             "name": "microG Installer Revived",
-            "version": "Revived 1.10.0-0",
-            "versionCode": "11000",
+            "version": "Revived 1.10.1-0",
+            "versionCode": "11010",
             "author": "nift4 (prev. Hieu Van)",
             "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app"
         }
@@ -1660,7 +1660,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-02-28T09:04:00Z",
+        "last_updated": "2021-03-01T09:07:54Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
