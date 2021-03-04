@@ -246,12 +246,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
-        "last_updated": "2021-02-08T09:10:48Z",
+        "last_updated": "2021-03-03T18:52:24Z",
         "properties": {
             "id": "active_edge_system_mod",
             "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v74",
-            "versionCode": "74",
+            "version": "v75",
+            "versionCode": "75",
             "author": "j to the 4n, mikalovtch",
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
@@ -807,12 +807,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-02-21T15:37:05Z",
+        "last_updated": "2021-03-03T14:38:41Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v23.6",
-            "versionCode": "56",
+            "version": "v23.7",
+            "versionCode": "57",
             "author": "Rikka",
             "description": "Inject into zygote process. Required by all \"Riru\" modules."
         }
