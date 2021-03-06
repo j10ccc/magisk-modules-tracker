@@ -807,12 +807,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-03-03T14:38:41Z",
+        "last_updated": "2021-03-05T18:55:48Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v23.7",
-            "versionCode": "57",
+            "version": "v23.9",
+            "versionCode": "59",
             "author": "Rikka",
             "description": "Inject into zygote process. Required by all \"Riru\" modules."
         }
@@ -1424,7 +1424,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-02-07T11:28:31Z",
+        "last_updated": "2021-03-05T17:56:59Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
@@ -1538,12 +1538,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-02-21T12:12:27Z",
+        "last_updated": "2021-03-05T18:51:59Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.4.5.r98.97d6575",
-            "versionCode": "98",
+            "version": "v11.5.0.r109.3ca654b",
+            "versionCode": "109",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
         }
