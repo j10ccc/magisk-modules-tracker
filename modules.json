@@ -19,7 +19,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv",
         "language": "Shell",
-        "last_updated": "2021-02-11T14:56:59Z",
+        "last_updated": "2021-03-06T02:24:24Z",
         "properties": {
             "id": "Fdroid-Priv",
             "name": "F-Droid Privileged Extension",
@@ -1433,12 +1433,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
-        "last_updated": "2021-03-01T09:49:46Z",
+        "last_updated": "2021-03-06T06:41:11Z",
         "properties": {
             "id": "microg_installer",
             "name": "microG Installer Revived",
-            "version": "Revived 1.10.1-0",
-            "versionCode": "11010",
+            "version": "Revived 1.11.0-0",
+            "versionCode": "11100",
             "author": "nift4 (prev. Hieu Van)",
             "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app"
         }
