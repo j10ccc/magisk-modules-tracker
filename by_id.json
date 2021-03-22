@@ -1154,12 +1154,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-02-11T10:35:00Z",
+        "last_updated": "2021-03-21T04:50:49Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
-            "version": "v23.6",
-            "versionCode": "56",
+            "version": "v23.8",
+            "versionCode": "58",
             "author": "Rikka",
             "description": "Enable Enhanced mode for Storage Isolation app. Storage Isolation is an app provides app storage isolation feature."
         }
