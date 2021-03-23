@@ -508,7 +508,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/twrp-keep",
         "language": "Shell",
-        "last_updated": "2021-01-25T01:25:23Z",
+        "last_updated": "2021-03-22T00:10:49Z",
         "properties": {
             "id": "twrp-keep",
             "name": "TWRP A/B Retention Script",
@@ -863,14 +863,16 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-03-05T18:55:48Z",
+        "last_updated": "2021-03-22T12:56:16Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v23.9",
-            "versionCode": "59",
+            "version": "v25.3.3.r393.ed83041",
+            "versionCode": "393",
             "author": "Rikka",
-            "description": "Inject into zygote process. Required by all \"Riru\" modules."
+            "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server.",
+            "riruApi": "25",
+            "riruMinApi": "9"
         }
     },
     {
@@ -941,12 +943,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_location_report_enabler",
         "language": "Shell",
-        "last_updated": "2021-01-07T10:51:52Z",
+        "last_updated": "2021-03-22T10:58:28Z",
         "properties": {
             "id": "riru_location_report_enabler",
             "name": "Riru - Location Report Enabler",
-            "version": "v10.2",
-            "versionCode": "15",
+            "version": "v11.0.0.r50.0b1d37f",
+            "versionCode": "50",
             "author": "Rikka",
             "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages."
         }
@@ -1204,14 +1206,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-03-08T19:05:06Z",
+        "last_updated": "2021-03-22T15:37:15Z",
         "properties": {
             "id": "bromitewebview",
-            "name": "Webview Switcher",
-            "version": "7.3.0",
-            "versionCode": "4028",
+            "name": "Webview Manager",
+            "version": "8.0.1",
+            "versionCode": "4037",
             "author": "Androidacy",
-            "description": "Switch System WebView and default browser systemless-ly, on any ROM! You can block ads and fingerprinting, increase privacy, and more!"
+            "description": "Change System WebView and default browser systemless-ly, on any ROM! You can block ads and fingerprinting, increase privacy, and more! Website: www.androidacy.com."
         }
     },
     {
@@ -1234,7 +1236,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-03-21T04:50:49Z",
+        "last_updated": "2021-03-22T11:34:28Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
@@ -1645,14 +1647,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-03-05T18:51:59Z",
+        "last_updated": "2021-03-22T10:55:48Z",
         "properties": {
             "id": "riru-sui",
             "name": "Riru - Sui",
-            "version": "v11.5.0.r109.3ca654b",
-            "versionCode": "109",
+            "version": "v11.6.0.r122.aeb57f9",
+            "versionCode": "122",
             "author": "Rikka",
-            "description": "Modern superuser interface implementation, shares the same API design from Shizuku."
+            "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above."
         }
     },
     {
@@ -1660,16 +1662,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-03-08T06:06:39Z",
+        "last_updated": "2021-03-22T12:22:13Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.2.2",
-            "versionCode": "5420",
+            "version": "v1.3.4",
+            "versionCode": "5501",
             "author": "LSPosed Developers",
-            "api": "93",
-            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed.",
-            "minApi": "10"
+            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 DP2. Requires Riru 25.0.0 or above installed."
         }
     }
 ]
