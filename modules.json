@@ -134,7 +134,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/nano-ndk",
         "language": "Shell",
-        "last_updated": "2021-03-12T01:02:23Z",
+        "last_updated": "2021-03-24T08:31:50Z",
         "properties": {
             "id": "nano-ndk",
             "name": "Nano for Android NDK",
