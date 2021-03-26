@@ -1128,14 +1128,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-03-23T03:19:32Z",
+        "last_updated": "2021-03-25T04:03:55Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "8.0.2",
-            "versionCode": "4038",
+            "version": "8.1.1",
+            "versionCode": "4042",
             "author": "Androidacy",
-            "description": "Change System WebView and default browser systemless-ly, on any ROM! You can block ads and fingerprinting, increase privacy, and more! Website: www.androidacy.com."
+            "description": "Change System WebView and default browser systemless-ly, on any ROM. You can block ads and fingerprinting, increase privacy, and more. Website: www.androidacy.com."
         }
     },
     "PIXELARITY": {
@@ -1272,12 +1272,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-02-19T00:32:51Z",
+        "last_updated": "2021-03-25T04:03:42Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.13-1",
-            "versionCode": "142131",
+            "version": "14.2.14-1",
+            "versionCode": "142141",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
