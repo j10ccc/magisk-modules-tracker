@@ -108,12 +108,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
         "language": "Shell",
-        "last_updated": "2021-03-30T05:39:04Z",
+        "last_updated": "2021-03-31T06:32:32Z",
         "properties": {
             "id": "busybox-ndk",
             "name": "Busybox for Android NDK",
-            "version": "1.31.1",
-            "versionCode": "13123",
+            "version": "1.32.1",
+            "versionCode": "13210",
             "author": "osm0sis @ xda-developers",
             "description": "Static busybox binary for all Android architectures built with the NDK",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
@@ -704,12 +704,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/quickstepswitcher",
         "language": "Shell",
-        "last_updated": "2021-01-22T11:28:00Z",
+        "last_updated": "2021-03-31T08:20:57Z",
         "properties": {
             "id": "quickstepswitcher",
             "name": "QuickSwitch (Android Pie+)",
-            "version": "v3.1.7",
-            "versionCode": "3170",
+            "version": "v3.1.7.1",
+            "versionCode": "3171",
             "author": "The Lawnchair team",
             "description": "Pie recents for any supported launcher"
         }
@@ -1426,7 +1426,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-03-29T13:27:30Z",
+        "last_updated": "2021-03-31T22:14:03Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
