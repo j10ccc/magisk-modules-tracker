@@ -663,13 +663,13 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2020-12-29T14:13:15Z",
+        "last_updated": "2021-04-13T21:18:00Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
-            "version": "v4.2",
-            "versionCode": "42",
-            "author": "hinxnz, Rom",
+            "version": "v4.3 BETA 8",
+            "versionCode": "438",
+            "author": "hinxnz, Rom, Sobuj53",
             "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk."
         }
     },
@@ -1267,7 +1267,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/benchkit",
         "language": "Shell",
-        "last_updated": "2020-12-18T03:28:08Z",
+        "last_updated": "2021-04-13T02:46:34Z",
         "properties": {
             "id": "benchkit",
             "name": "Benchkit",
@@ -1420,7 +1420,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-02-10T02:47:47Z",
+        "last_updated": "2021-04-13T15:47:46Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-R)",
