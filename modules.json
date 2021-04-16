@@ -663,7 +663,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-04-13T21:18:00Z",
+        "last_updated": "2021-04-15T11:05:33Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -863,7 +863,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-04-12T12:28:26Z",
+        "last_updated": "2021-04-15T17:01:59Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
@@ -913,7 +913,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/xmlpak",
         "language": "Shell",
-        "last_updated": "2019-10-24T13:41:49Z",
+        "last_updated": "2021-04-15T11:47:51Z",
         "properties": {
             "id": "xmlpak",
             "name": "xmlpak \u00e2\u20ac\u201c a road to vendor apps",
@@ -1360,12 +1360,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-03-25T04:03:42Z",
+        "last_updated": "2021-04-15T11:36:40Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.14-1",
-            "versionCode": "142141",
+            "version": "14.2.15-1",
+            "versionCode": "142151",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
