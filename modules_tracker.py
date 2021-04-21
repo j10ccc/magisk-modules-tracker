@@ -135,7 +135,7 @@ def gen_modules_list(repos, filename):
     generate modules_list.json file
     """
     print(f"Genarating {filename}")
-    details = {}
+    details = []
     # iterate for all repos in organisation
     for repo in repos:
         name = repo["name"]
