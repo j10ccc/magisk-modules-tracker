@@ -42,7 +42,7 @@ def push_files():
     now = datetime.now().strftime("%d/%m/%y %H:%M:%S")
     run(["git", "config", "user.name", '"Divkix"'])
     run(["git", "config", "user.email", '"techdroidroot@gmail.com"'])
-    run(["git", "add", "modules.json", "by_id.json"])
+    run(["git", "add", "modules.json", "by_id.json", "modules_list.json"])
     run(["git", "commit", "-m", f"Automated Sync: {now}"])
     run(["git", "push"])
     print("Pushed to remote")
@@ -130,6 +130,34 @@ def gen_id_json(repos, filename):
     save_file(filename, details)
 
 
+def gen_modules_list(repos, filename):
+    """
+    generate modules_list.json file
+    """
+    print(f"Genarating {filename}")
+    details = {}
+    # iterate for all repos in organisation
+    for repo in repos:
+        name = repo["name"]
+        # we don't need 'submission' repo in file
+        if name == "submission":
+            continue
+        details.append(name)
+
+    save_file(filename, details)
+
+
+def purge_jsdeliver():
+    print("Sending purge request on jsdelivr.net")
+    tvar1 = get("https://purge.jsdelivr.net/gh/DivideTrackers/magisk-modules-tracker@latest/modules.json")
+    tvar2 = get("https://purge.jsdelivr.net/gh/DivideTrackers/magisk-modules-tracker@latest/by_id.json")
+    tvar3 = get("https://purge.jsdelivr.net/gh/DivideTrackers/magisk-modules-tracker@latest/modules_list.json")
+    
+    if tvar1.status_code == 200 and tvar2.status_code == 200 and tvar3.status_code == 200:
+        return True
+    return False
+
+
 def main():
     """
     main script
@@ -138,7 +166,9 @@ def main():
     rep_data = get_api_data()
     gen_modules_json(rep_data, "modules.json")
     gen_id_json(rep_data, "by_id.json")
+    gen_modules_list(rep_data, "modules_list.json")
     push_files()
+    purge_jsdeliver()
     total_time = time_formatter(int(time() - start))
     print(f"Completed in {total_time}")
 
