@@ -1377,7 +1377,12 @@
         "language": "Shell",
         "last_updated": "2019-11-02T14:54:18Z",
         "properties": {
-            "version": "\"1.0\" encoding=\"utf-8\"?>"
+            "id": "adreno-630-gpu-driver",
+            "name": "Adreno 630 GPU Driver",
+            "version": "v415/v331",
+            "versionCode": "4156",
+            "author": "P1N2O",
+            "description": "Latest GPU driver for Adreno 630 (SDM845)."
         }
     },
     {
