@@ -448,7 +448,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/sqlite3",
         "language": "Shell",
-        "last_updated": "2019-07-02T05:19:42Z",
+        "last_updated": "2021-04-25T13:43:16Z",
         "properties": {
             "id": "sqlite3",
             "name": "SQLite for ARM aarch64 devices",
@@ -663,7 +663,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-04-24T08:03:49Z",
+        "last_updated": "2021-04-25T11:10:02Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
