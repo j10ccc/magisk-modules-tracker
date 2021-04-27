@@ -475,7 +475,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/twrp-keep",
         "language": "Shell",
-        "last_updated": "2021-03-22T00:10:49Z",
+        "last_updated": "2021-04-26T17:41:10Z",
         "properties": {
             "id": "twrp-keep",
             "name": "TWRP A/B Retention Script",
@@ -620,7 +620,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-04-25T11:10:02Z",
+        "last_updated": "2021-04-26T04:37:49Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -1156,12 +1156,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-04-08T06:08:10Z",
+        "last_updated": "2021-04-26T16:40:44Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
-            "version": "v24.1.0",
-            "versionCode": "60",
+            "version": "v24.1.2",
+            "versionCode": "62",
             "author": "Rikka",
             "description": "Enable Enhanced mode for Storage Isolation app. Storage Isolation is an app provides app storage isolation feature."
         }
@@ -1272,12 +1272,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-04-21T20:19:27Z",
+        "last_updated": "2021-04-26T19:50:58Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.16-1",
-            "versionCode": "142161",
+            "version": "14.2.17-1",
+            "versionCode": "142171",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
