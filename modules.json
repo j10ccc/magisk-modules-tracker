@@ -1525,7 +1525,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-04-09T13:50:05Z",
+        "last_updated": "2021-04-29T15:57:49Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
