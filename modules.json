@@ -309,11 +309,11 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-04-10T10:24:16Z",
+        "last_updated": "2021-05-01T22:09:00Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v125",
+            "version": "v5.4.0-v126",
             "versionCode": "68",
             "author": "Didgeridoohan",
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
@@ -663,7 +663,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-04-28T17:31:07Z",
+        "last_updated": "2021-05-01T13:58:40Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
