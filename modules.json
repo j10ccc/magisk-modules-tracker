@@ -663,7 +663,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-05-01T13:58:40Z",
+        "last_updated": "2021-05-02T09:11:56Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -1540,12 +1540,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_clipboard_whitelist",
         "language": "Shell",
-        "last_updated": "2021-02-28T12:01:13Z",
+        "last_updated": "2021-05-02T16:32:29Z",
         "properties": {
             "id": "riru_clipboard_whitelist",
-            "name": "Riru - ClipboardWhitelist",
-            "version": "v7",
-            "versionCode": "7",
+            "name": "Riru - Clipboard Whitelist",
+            "version": "v9",
+            "versionCode": "9",
             "author": "Kr328",
             "description": "A module of Riru. Add clipboard whitelist to Android 10."
         }
