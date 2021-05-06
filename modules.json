@@ -100,15 +100,7 @@
         "language": "Shell",
         "last_updated": "2021-03-30T05:38:59Z",
         "properties": {
-            "id": "adreno-dev",
-            "name": "Adreno GPU Developer Preview Drivers",
-            "version": "#version#",
-            "versionCode": "30",
-            "author": "osm0sis @ xda-developers",
-            "description": "Replace ROM Adreno GPU drivers from Qualcomm",
-            "support": "https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -118,15 +110,7 @@
         "language": "Shell",
         "last_updated": "2021-03-31T06:32:32Z",
         "properties": {
-            "id": "busybox-ndk",
-            "name": "Busybox for Android NDK",
-            "version": "1.32.1",
-            "versionCode": "13210",
-            "author": "osm0sis @ xda-developers",
-            "description": "Static busybox binary for all Android architectures built with the NDK",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -136,15 +120,7 @@
         "language": "Shell",
         "last_updated": "2021-04-30T23:42:35Z",
         "properties": {
-            "id": "nano-ndk",
-            "name": "Nano for Android NDK",
-            "version": "5.7",
-            "versionCode": "5700",
-            "author": "osm0sis @ xda-developers",
-            "description": "Static ARM nano binary for Android built with the NDK",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -154,15 +130,7 @@
         "language": "Shell",
         "last_updated": "2021-03-30T05:39:23Z",
         "properties": {
-            "id": "nexusmedia",
-            "name": "Nexus Media",
-            "version": "#device#",
-            "versionCode": "37",
-            "author": "osm0sis @ xda-developers",
-            "description": "Replace ROM ringtones/notification/system sounds and bootanimation with those from the recently-retired Nexus devices (chosen at flash-time)",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -172,12 +140,7 @@
         "language": "Shell",
         "last_updated": "2021-01-05T20:07:01Z",
         "properties": {
-            "id": "airaudio",
-            "name": "AirAudio/AirMusic - stream your music!",
-            "version": "v9",
-            "versionCode": "9",
-            "author": "AirAudio/AirMusic - stream your music!",
-            "description": "This module enables AirAudio's/AirMusic's \"system-mode\" and allows you to stream all your audio to any network-enabled receiver."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -187,13 +150,7 @@
         "language": "Shell",
         "last_updated": "2020-11-19T12:28:26Z",
         "properties": {
-            "id": "ainur_jamesdsp",
-            "name": "JamesDSP Manager",
-            "version": "v3.3 (8-25-2020)",
-            "versionCode": "77",
-            "author": "james34602, ahrion, zackptg5",
-            "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
-            "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -203,13 +160,7 @@
         "language": "Shell",
         "last_updated": "2019-08-11T14:11:17Z",
         "properties": {
-            "id": "ViPER4AndroidFX-Legacy",
-            "name": "ViPER4Android FX Legacy",
-            "version": "v4.4",
-            "versionCode": "86",
-            "author": "ViPER520, ZhuHang, Ahrion, Zackptg5",
-            "description": "ViPER4Android FX is an audio enhancing software to provide everyone with a better audio experience (You can choose between Material 2.5, 2.5.0.5, and 2.3.4.0 during install)",
-            "support": "https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -219,12 +170,7 @@
         "language": "Shell",
         "last_updated": "2021-01-01T10:36:32Z",
         "properties": {
-            "id": "ainur_narsil",
-            "name": "Ainur Narsil",
-            "version": "MK I (01.01.2021)",
-            "versionCode": "51",
-            "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
-            "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -234,12 +180,7 @@
         "language": "Shell",
         "last_updated": "2020-08-26T15:44:30Z",
         "properties": {
-            "id": "wifi-bonding",
-            "name": "Wifi Bonding (Qcom)",
-            "version": "1.14",
-            "versionCode": "15",
-            "author": "simonsmh",
-            "description": "Doubles your wi-fi bandwith by modifying WCNSS_qcom_cfg.ini."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -249,13 +190,7 @@
         "language": "Shell",
         "last_updated": "2020-02-09T09:20:12Z",
         "properties": {
-            "id": "mm",
-            "name": "Magisk Manager for Recovery Mode (mm)",
-            "version": "2019.4.4",
-            "versionCode": "201904040",
-            "author": "VR25 @ xda-developers",
-            "description": "Manage your Magisk v17-19 modules from recovery (e.g., TWRP) -- run \" sh /sdcard/mm\" on recovery terminal.",
-            "minMagisk": "17000"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -265,12 +200,7 @@
         "language": "Shell",
         "last_updated": "2021-04-06T21:00:52Z",
         "properties": {
-            "id": "active_edge_system_mod",
-            "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v76",
-            "versionCode": "76",
-            "author": "j to the 4n, mikalovtch",
-            "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -280,13 +210,7 @@
         "language": "Shell",
         "last_updated": "2020-09-15T20:12:09Z",
         "properties": {
-            "id": "aml",
-            "name": "Audio Modification Library",
-            "version": "v4.0",
-            "versionCode": "55",
-            "author": "zackptg5, ahrion",
-            "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
-            "support": "https://forum.xda-developers.com/apps/magisk/module-audio-modification-library-t3579612"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -296,12 +220,7 @@
         "language": "Shell",
         "last_updated": "2020-10-22T07:41:03Z",
         "properties": {
-            "id": "ExSDCard",
-            "name": "ExSDCard Access Enabler",
-            "version": "v3.5",
-            "versionCode": "35",
-            "author": "Rom",
-            "description": "Enables external SDCard write access for your Apps on Nougat and Oreo, including Oreo dedicated feature ! New path for your sdcard: \"/mnt/media_rw/\"."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -309,14 +228,9 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-05-01T22:09:00Z",
+        "last_updated": "2021-05-05T10:11:12Z",
         "properties": {
-            "id": "MagiskHidePropsConf",
-            "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v126",
-            "versionCode": "68",
-            "author": "Didgeridoohan",
-            "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -326,12 +240,7 @@
         "language": "Shell",
         "last_updated": "2020-01-01T22:42:18Z",
         "properties": {
-            "id": "CloudflareDNS4Magisk",
-            "name": "CloudflareDNS4Magisk",
-            "version": "v2.7",
-            "versionCode": "27",
-            "author": "Rom",
-            "description": "Using the new Cloudflare DNS system-lessy! As simple as that."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -341,13 +250,7 @@
         "language": "Shell",
         "last_updated": "2020-11-14T20:11:13Z",
         "properties": {
-            "id": "acp",
-            "name": "Audio Compatibility Patch",
-            "version": "v2.3",
-            "versionCode": "37",
-            "author": "zackptg5, ahrion, John Fawkes",
-            "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
-            "support": "https://forum.xda-developers.com/apps/magisk/module-universal-deepbuffer-remover-t3577067"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -357,13 +260,7 @@
         "language": "Shell",
         "last_updated": "2019-08-06T00:56:22Z",
         "properties": {
-            "id": "KaliNethunter",
-            "name": "KaliNethunter",
-            "version": "v8.2",
-            "versionCode": "22",
-            "author": "XXH3X, dutchman, atarii, rithvikvibhu",
-            "description": "A module that installs a lightweight version Kali Nethunter on any phone.",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -373,12 +270,7 @@
         "language": "Shell",
         "last_updated": "2020-04-30T15:38:32Z",
         "properties": {
-            "id": "movecert",
-            "name": "Move Certificates",
-            "version": "v1.9",
-            "versionCode": "10",
-            "author": "yochananmarqos",
-            "description": "Moves certificates from the user certificate store to the system store. Removes the *Network may be monitored* warning."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -388,12 +280,7 @@
         "language": "Shell",
         "last_updated": "2020-12-20T11:32:10Z",
         "properties": {
-            "id": "liboemcryptodisabler",
-            "name": "liboemcrypto disabler",
-            "version": "v1.5",
-            "versionCode": "15",
-            "author": "ianmacd",
-            "description": "Disables liboemcrypto.so on rooted devices to allow DRM-protected content to play (e.g. Netflix, My5, etc.)."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -403,14 +290,7 @@
         "language": "Shell",
         "last_updated": "2019-08-11T14:03:16Z",
         "properties": {
-            "id": "ViPER4AndroidXHiFi",
-            "name": "ViPER4Android XHiFi",
-            "version": "v1.6",
-            "versionCode": "27",
-            "author": "ViPER520, ZhuHang, Zackptg5",
-            "description": "ViPER4Android XHiFi is an audio enhancing software to provide everyone with a better audio experience",
-            "support": "https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058",
-            "minMagisk": "1530"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -420,12 +300,7 @@
         "language": "Shell",
         "last_updated": "2020-01-01T22:46:15Z",
         "properties": {
-            "id": "CloudflareDNS4Magisk-IPv6",
-            "name": "CloudflareDNS4Magisk IPv6",
-            "version": "v2.6",
-            "versionCode": "26",
-            "author": "Rom",
-            "description": "Using the new Cloudflare DNS by Magisk! As simple as that."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -435,12 +310,7 @@
         "language": "Shell",
         "last_updated": "2021-02-27T05:23:58Z",
         "properties": {
-            "id": "energizedprotection",
-            "name": "Energized Protection",
-            "version": "1.3.4",
-            "versionCode": "210227134",
-            "author": "AdroitAdorKhan",
-            "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -450,12 +320,7 @@
         "language": "Shell",
         "last_updated": "2021-04-25T13:43:16Z",
         "properties": {
-            "id": "sqlite3",
-            "name": "SQLite for ARM aarch64 devices",
-            "version": "v1.3",
-            "versionCode": "13",
-            "author": "ianmacd",
-            "description": "Provides a statically linked sqlite3 binary for ARM aarch64 devices"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -465,12 +330,7 @@
         "language": "Shell",
         "last_updated": "2021-04-30T19:02:48Z",
         "properties": {
-            "id": "ssh",
-            "name": "SSH for Magisk",
-            "version": "v0.12",
-            "versionCode": "12",
-            "author": "D4rCM4rC",
-            "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -480,12 +340,7 @@
         "language": "Shell",
         "last_updated": "2020-12-17T13:57:50Z",
         "properties": {
-            "id": "terminalmods",
-            "name": "Terminal Modifications",
-            "version": "v1.4.6",
-            "versionCode": "146",
-            "author": "Skittles9823",
-            "description": "Android terminal - The way it should be"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -495,12 +350,7 @@
         "language": "Shell",
         "last_updated": "2020-10-31T06:11:01Z",
         "properties": {
-            "id": "wirelessFirmware",
-            "name": "Wireless Firmware for Nethunter",
-            "version": "v2.0.4",
-            "versionCode": "2004",
-            "author": "rithvikvibhu",
-            "description": "This module adds the required firmware for external wireless adapters to be used with NetHunter."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -510,15 +360,7 @@
         "language": "Shell",
         "last_updated": "2021-04-26T17:41:10Z",
         "properties": {
-            "id": "twrp-keep",
-            "name": "TWRP A/B Retention Script",
-            "version": "Magisk",
-            "versionCode": "1",
-            "author": "osm0sis @ xda-developers",
-            "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from Manager",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "minMagisk": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -528,12 +370,7 @@
         "language": "Shell",
         "last_updated": "2020-05-09T14:30:31Z",
         "properties": {
-            "id": "libsecure_storage",
-            "name": "libsecure_storage companion for rooted Samsung devices",
-            "version": "v2.1",
-            "versionCode": "21",
-            "author": "ianmacd",
-            "description": "Modified system libraries to restore retention of Bluetooth pairings on various rooted Samsung devices."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -543,12 +380,7 @@
         "language": "Shell",
         "last_updated": "2020-10-18T01:46:17Z",
         "properties": {
-            "id": "GoogleDialerFramework",
-            "name": "Google Dialer Framework",
-            "version": "v5",
-            "versionCode": "5",
-            "author": "TJJ",
-            "description": "Framework for installing the Google Dialer aka Google Phone on Android"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -558,12 +390,7 @@
         "language": "Shell",
         "last_updated": "2019-04-03T21:24:18Z",
         "properties": {
-            "id": "ASUS-Style-Suite",
-            "name": "ASUS Style Suite ",
-            "version": "v4",
-            "versionCode": "4",
-            "author": "Rom, all credits to linuxct",
-            "description": "ROG Phone Apps Ports - Live Wallpaper + Camera ported for Magisk"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -573,12 +400,7 @@
         "language": "Shell",
         "last_updated": "2019-11-09T07:12:11Z",
         "properties": {
-            "id": "vold-posix",
-            "name": "Vold - exFAT/NTFS/EXT4/F2FS Support",
-            "version": "3.0.1",
-            "versionCode": "184",
-            "author": "null4n @ github.com",
-            "description": "Add exfat/ntfs/ext4/f2fs filesystem support for external sdcard. Only for AOSP-like system. (f2fs only available if your kernel support it.)"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -588,12 +410,7 @@
         "language": "Shell",
         "last_updated": "2020-09-20T22:34:38Z",
         "properties": {
-            "id": "motoclockwidget",
-            "name": "Moto Clock Widget",
-            "version": "v10.2",
-            "versionCode": "35",
-            "author": "TeamDeluxe & dark-basic",
-            "description": "Systemless install Motorola Clock widget"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -603,12 +420,7 @@
         "language": "Shell",
         "last_updated": "2019-04-11T15:15:27Z",
         "properties": {
-            "id": "apt-x",
-            "name": "APTX for Android Oreo & Pie",
-            "version": "v1.1",
-            "versionCode": "3",
-            "author": "null4n @ github.com",
-            "description": "Add APTX libraries to system. Adroid 8+ should work."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -618,12 +430,7 @@
         "language": "Shell",
         "last_updated": "2020-11-06T08:48:52Z",
         "properties": {
-            "id": "disable-screenshot-camera-sounds",
-            "name": "Disable screenshot and camera sounds",
-            "version": "v1.4",
-            "versionCode": "5",
-            "author": "ant9000",
-            "description": "Systemlessly disable both screenshot and camera sounds(added android 10 support @compliment)"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -633,14 +440,7 @@
         "language": "Shell",
         "last_updated": "2019-10-10T11:42:54Z",
         "properties": {
-            "id": "Pix3lify",
-            "name": "Pix3lify",
-            "version": "v3.0.4",
-            "versionCode": "304",
-            "author": "Joey Huab, Aidan Holland, Pika, JohnFawkes, and Laster K. (lazerl0rd)",
-            "description": "Ports Pixel-range exclusive features; Pixel Blue theme accent, Product Sans font, Alarms, Notification sounds, Ringtones, UI audio; enables Pixel Wallpapers, enables Google Call Screening, enables Night Light (device dependent), Daydream VR support, adds Device Gestures to Settings, enables Camera2 API and EIS support (varies per device)",
-            "support": "https://t.me/Pix3lify",
-            "donate": "https://www.paypal.me/joeyhuab"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -650,12 +450,7 @@
         "language": "Shell",
         "last_updated": "2020-01-17T04:16:27Z",
         "properties": {
-            "id": "sony-device-dummy",
-            "name": "Sony Device Dummy",
-            "version": "v1.0",
-            "versionCode": "2",
-            "author": "null4n @ github",
-            "description": "Add dummy Sony device libraries for Walkman, Album, Weather and other sony apps. Please read the readme first."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -665,12 +460,7 @@
         "language": "Shell",
         "last_updated": "2021-05-04T11:41:00Z",
         "properties": {
-            "id": "Detach",
-            "name": "Detach",
-            "version": "v4.3 BETA 8",
-            "versionCode": "438",
-            "author": "hinxnz, Rom, Sobuj53",
-            "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -680,12 +470,7 @@
         "language": "Shell",
         "last_updated": "2021-02-19T15:17:18Z",
         "properties": {
-            "id": "callrecorder-skvalex",
-            "name": "Call Recorder - SKVALEX",
-            "version": "2.1.0 (3.4.4)",
-            "versionCode": "34",
-            "author": "skvalex",
-            "description": "App to record phone calls from the line with a power of root and magisk"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -695,12 +480,7 @@
         "language": "Shell",
         "last_updated": "2020-09-21T18:48:17Z",
         "properties": {
-            "id": "Oxy-ify",
-            "name": "Oxy-ify",
-            "version": "v5.3",
-            "versionCode": "24",
-            "author": "MarcAnt01",
-            "description": "Get Oxygen OS apps, custom media and OnePlus Slate font."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -710,12 +490,7 @@
         "language": "Shell",
         "last_updated": "2019-07-01T11:11:37Z",
         "properties": {
-            "id": "djs",
-            "name": "Daily Job Scheduler (djs)",
-            "version": "2019.7.1",
-            "versionCode": "201907010",
-            "author": "VR25 (xda-developers.com)",
-            "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. A recent stable Magisk version is recommended. Refer to README.md for details. If you are in Magisk Manager > Downloads, click here to open the documentation."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -725,12 +500,7 @@
         "language": "Shell",
         "last_updated": "2020-08-25T13:41:55Z",
         "properties": {
-            "id": "IPControl",
-            "name": "Input Power Control",
-            "version": "3.0.1",
-            "versionCode": "35",
-            "author": "Jaymin Suthar",
-            "description": "Completely native input power control tool written purely in C++ for performance and stability"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -740,12 +510,7 @@
         "language": "Shell",
         "last_updated": "2021-01-11T06:41:42Z",
         "properties": {
-            "id": "v2ray",
-            "name": "V2ray for Android",
-            "version": "latest_version",
-            "versionCode": "20200918",
-            "author": "chendefine",
-            "description": "V2ray core with service scripts for Android"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -755,12 +520,7 @@
         "language": "Shell",
         "last_updated": "2021-03-31T08:20:57Z",
         "properties": {
-            "id": "quickstepswitcher",
-            "name": "QuickSwitch (Android Pie+)",
-            "version": "v3.1.7.1",
-            "versionCode": "3171",
-            "author": "The Lawnchair team",
-            "description": "Pie recents for any supported launcher"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -770,13 +530,7 @@
         "language": "Shell",
         "last_updated": "2019-05-12T10:07:41Z",
         "properties": {
-            "id": "com.catchingnow.icebox",
-            "name": "Ice Box System Plugin Module",
-            "version": "v2.1",
-            "versionCode": "3",
-            "author": "Catching Now",
-            "description": "Speed up Ice Box's freezing and defrosting.",
-            "support": "https://play.google.com/store/apps/details?id=com.catchingnow.icebox"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -786,13 +540,7 @@
         "language": "Shell",
         "last_updated": "2019-05-20T11:47:53Z",
         "properties": {
-            "id": "foxy-boot",
-            "name": "Foxy Boot",
-            "version": "1.4",
-            "versionCode": "5",
-            "author": "kitsunyan",
-            "description": "Replace Android boot animation with the kernel ring buffer or Android log",
-            "support": "https://github.com/kitsunyan/foxy-boot"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -802,15 +550,7 @@
         "language": "Shell",
         "last_updated": "2021-03-30T05:39:28Z",
         "properties": {
-            "id": "zipsigner",
-            "name": "ZipSigner & Zip for Android NDK",
-            "version": "3.0",
-            "versionCode": "3014",
-            "author": "osm0sis & topjohnwu @ xda-developers",
-            "description": "Wrapped dexed zipsigner.jar, and static ARM zip and zipalign binaries for Android built with the NDK",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -820,12 +560,7 @@
         "language": "Shell",
         "last_updated": "2021-01-14T06:30:43Z",
         "properties": {
-            "id": "logcat",
-            "name": "Log Catcher",
-            "version": "v17",
-            "versionCode": "17",
-            "author": "MlgmXyysd",
-            "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -835,12 +570,7 @@
         "language": "Shell",
         "last_updated": "2019-05-01T04:54:37Z",
         "properties": {
-            "id": "xposed",
-            "name": "Xposed Framework",
-            "version": "v90-beta3",
-            "versionCode": "9030",
-            "author": "rovo89",
-            "description": "The official Xposed Framework, packaged by @topjohnwu"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -850,12 +580,7 @@
         "language": "Shell",
         "last_updated": "2020-02-16T16:42:50Z",
         "properties": {
-            "id": "ARCore_enabler",
-            "name": "ARCore/Playground Patcher",
-            "version": "v2.1",
-            "versionCode": "9",
-            "author": "MarcAnt01",
-            "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -863,16 +588,9 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-04-16T03:52:13Z",
+        "last_updated": "2021-05-05T08:12:36Z",
         "properties": {
-            "id": "riru-core",
-            "name": "Riru",
-            "version": "v25.4.2.r415.f42e9c3",
-            "versionCode": "415",
-            "author": "Rikka",
-            "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server.",
-            "riruApi": "25",
-            "riruMinApi": "9"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -882,13 +600,7 @@
         "language": "Shell",
         "last_updated": "2021-02-25T12:29:47Z",
         "properties": {
-            "id": "acc",
-            "domain": "vr25",
-            "name": "Advanced Charging Controller (ACC)",
-            "version": "v2021.2.25",
-            "versionCode": "202102250",
-            "author": "VR25",
-            "description": "ACC is an Android software mainly intended for extending battery service life. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"systemless\", whether or not the system is rooted with Magisk. If you're reading this from Magisk Manager > Downloads, tap here to open the documentation. Once there, if you feel lazy, scroll down to the quick start section."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -898,14 +610,7 @@
         "language": "Shell",
         "last_updated": "2021-02-18T02:52:31Z",
         "properties": {
-            "id": "riru_edxposed",
-            "name": "Riru - EdXposed",
-            "version": "v0.5.2.2_4683-master",
-            "versionCode": "4683",
-            "author": "solohsu, MlgmXyysd",
-            "api": "93",
-            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed. Telegram: @EdXposed",
-            "minApi": "10"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -915,12 +620,7 @@
         "language": "Shell",
         "last_updated": "2021-04-15T11:47:51Z",
         "properties": {
-            "id": "xmlpak",
-            "name": "xmlpak \u00e2\u20ac\u201c a road to vendor apps",
-            "version": "v3.6",
-            "versionCode": "36",
-            "author": "Tadi (j1505243 at xda)",
-            "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -930,12 +630,7 @@
         "language": "Shell",
         "last_updated": "2021-02-24T11:06:30Z",
         "properties": {
-            "id": "OneController",
-            "name": "1Controller - 1 Module to support all Controllers.",
-            "version": "v1.5.1",
-            "versionCode": "151",
-            "author": "Electric1447",
-            "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox One/S, Xbox 360."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -945,12 +640,7 @@
         "language": "Shell",
         "last_updated": "2021-04-21T08:39:45Z",
         "properties": {
-            "id": "riru_location_report_enabler",
-            "name": "Riru - Location Report Enabler",
-            "version": "v11.0.0.r50.0b1d37f",
-            "versionCode": "50",
-            "author": "Rikka",
-            "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -960,12 +650,7 @@
         "language": "Shell",
         "last_updated": "2019-11-11T18:31:02Z",
         "properties": {
-            "id": "sap",
-            "name": "System Accent Theme (Colors) for P",
-            "version": "v1.2",
-            "versionCode": "12",
-            "author": "Ludwig33",
-            "description": "Simple module to add some system accent theme colors to your android P custom rom, after flash though magisk and reboot go to Settings> Display> Color theme. Files are pushed to /vendor/overlay."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -975,12 +660,7 @@
         "language": "Shell",
         "last_updated": "2019-06-26T10:49:14Z",
         "properties": {
-            "id": "kfmark",
-            "name": "KFMark Enabler",
-            "version": "v1.0.3",
-            "versionCode": "4",
-            "author": "MlgmXyysd",
-            "description": "A module can enable KFMark when device start."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -990,13 +670,7 @@
         "language": "Shell",
         "last_updated": "2021-04-12T00:41:51Z",
         "properties": {
-            "id": "ViPER4AndroidFX",
-            "name": "ViPER4Android FX ",
-            "version": "v2.7.2.1",
-            "versionCode": "2721",
-            "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
-            "description": "ViPER4AndroidFX reborn - v2.7.x",
-            "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1006,12 +680,7 @@
         "language": "Shell",
         "last_updated": "2019-06-03T18:41:31Z",
         "properties": {
-            "id": "disable-mdnsd",
-            "name": "Disable multicast DNS daemon",
-            "version": "v1.0",
-            "versionCode": "1",
-            "author": "ant9000",
-            "description": "Systemlessly disable multicast DNS daemon"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1021,12 +690,7 @@
         "language": "Shell",
         "last_updated": "2019-06-13T11:46:49Z",
         "properties": {
-            "id": "twrp-helper",
-            "name": "TWRP Helper",
-            "version": "v1.0",
-            "versionCode": "10",
-            "author": "ianmacd",
-            "description": "This module provides dynamic, in-situ patching of the device's TWRP recovery image to include Internal Storage in future Data back-ups."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1036,12 +700,7 @@
         "language": "Shell",
         "last_updated": "2019-06-12T20:01:10Z",
         "properties": {
-            "id": "PS4RE",
-            "name": "PS4 Remote Play Enabler",
-            "version": "v1",
-            "versionCode": "1",
-            "author": "Seyaru",
-            "description": "For non-Sony devices enable PS4 Remote Play from PlayStore"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1051,12 +710,7 @@
         "language": "Shell",
         "last_updated": "2020-12-09T03:12:01Z",
         "properties": {
-            "id": "hidden_settings",
-            "name": "HiddenSettings",
-            "version": "v0.0.4",
-            "versionCode": "004",
-            "author": "Skittles9823",
-            "description": "A graphical interface to modify settings via terminal."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1066,13 +720,7 @@
         "language": "Shell",
         "last_updated": "2021-05-03T13:55:50Z",
         "properties": {
-            "id": "gvisualmod",
-            "name": "G-Visual Mod",
-            "version": "v4.1",
-            "versionCode": "36",
-            "author": "Gnonymous7",
-            "description": "Systemlessy customize your Android's Visual!",
-            "support": "Gnonymous7 @ XDA & Telegram"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1082,14 +730,7 @@
         "language": "Shell",
         "last_updated": "2021-01-11T09:05:31Z",
         "properties": {
-            "id": "com.piyushgarg.rclone",
-            "name": "rclone-mount",
-            "modVer": "1.13",
-            "BinVer": "1.53.0",
-            "version": "rclone: (v1.53.0) mod: (v1.13)",
-            "versionCode": "113",
-            "author": "piyushgarg @ github.com",
-            "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1099,12 +740,7 @@
         "language": "Shell",
         "last_updated": "2019-07-13T14:03:12Z",
         "properties": {
-            "id": "OneUISounds",
-            "name": "One UI Sounds",
-            "version": "1.1",
-            "versionCode": "2",
-            "author": "LeddaZ",
-            "description": "One UI system sounds"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1114,12 +750,7 @@
         "language": "Shell",
         "last_updated": "2019-07-15T00:07:59Z",
         "properties": {
-            "id": "AppOpsPlugin",
-            "name": "System Plugin for App Ops",
-            "version": "v8",
-            "versionCode": "8",
-            "author": "Wildheart@xda",
-            "description": "Enable System Plugin mode of App Ops by Rikka (works on pre-Pie)."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1129,12 +760,7 @@
         "language": "Shell",
         "last_updated": "2021-01-26T10:04:55Z",
         "properties": {
-            "id": "aria2c",
-            "name": "aria2c for android",
-            "version": "v0.1.1",
-            "versionCode": "2",
-            "author": "lindroidux",
-            "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1144,13 +770,7 @@
         "language": "Shell",
         "last_updated": "2019-07-15T20:28:45Z",
         "properties": {
-            "id": "miui-10-sounds",
-            "name": "MIUI 10 Sound Pack",
-            "version": "1.2",
-            "versionCode": "1",
-            "author": "4PERTURE",
-            "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
-            "minMagisk": "17000"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1160,15 +780,7 @@
         "language": "Shell",
         "last_updated": "2021-03-30T05:39:12Z",
         "properties": {
-            "id": "mtd-ndk",
-            "name": "mtd-utils for Android NDK",
-            "version": "2.1.2",
-            "versionCode": "2127",
-            "author": "osm0sis @ xda-developers",
-            "description": "Static ARM mtd-utils (flash_erase, nanddump and nandwrite) binaries for Android built with the NDK",
-            "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
-            "donate": "https://www.paypal.me/osm0sis",
-            "template": "1500"
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1178,12 +790,7 @@
         "language": "Shell",
         "last_updated": "2019-07-19T04:09:34Z",
         "properties": {
-            "id": "miracast-enabler",
-            "name": "Miracast Enabler",
-            "version": "v3",
-            "versionCode": "3",
-            "author": "crass",
-            "description": "Enables Miracast screen mirroring on Pie. Not tested on non-Pixel devices."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
@@ -1193,12 +800,7 @@
         "language": "Shell",
         "last_updated": "2021-02-02T08:48:15Z",
         "properties": {
-            "id": "noneDisplayCutout",
-            "name": "None Display Cutout",
-            "version": "v2",
-            "versionCode": "2",
-            "author": "MlgmXyysd",
-            "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808."
+            "version": "\"1.0\" encoding=\"utf-8\"?>"
         }
     },
     {
