@@ -620,7 +620,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-05-04T11:41:00Z",
+        "last_updated": "2021-05-06T04:49:07Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -1238,18 +1238,18 @@
             "description": "A rule-based tunnel in Go."
         }
     },
-    "mgskfixes": {
+    "fontrevival": {
         "branch": "master",
-        "url": "https://github.com/Magisk-Modules-Repo/mgskfixes",
+        "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2020-11-11T04:55:09Z",
+        "last_updated": "2021-05-06T22:42:29Z",
         "properties": {
-            "id": "mgskfixes",
-            "name": "Magisk Fixes (MMT-ex) ",
-            "version": "1.2.2",
-            "versionCode": "0006",
-            "author": "linuxandria",
-            "description": "A few fixes for Magisk, focusing on GSI compatibility with magisk."
+            "id": "fontrevival",
+            "name": "Font Manager",
+            "version": "v4.0.3",
+            "versionCode": "35",
+            "author": "Androidacy",
+            "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: www.androidacy.com"
         }
     },
     "WDAnimationcxair": {
