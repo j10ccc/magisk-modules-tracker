@@ -108,12 +108,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
         "language": "Shell",
-        "last_updated": "2021-03-31T06:32:32Z",
+        "last_updated": "2021-05-07T03:35:10Z",
         "properties": {
             "id": "busybox-ndk",
             "name": "Busybox for Android NDK",
-            "version": "1.32.1",
-            "versionCode": "13210",
+            "version": "1.33.1",
+            "versionCode": "13310",
             "author": "osm0sis @ xda-developers",
             "description": "Static busybox binary for all Android architectures built with the NDK",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
@@ -246,13 +246,13 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
-        "last_updated": "2021-04-06T21:00:52Z",
+        "last_updated": "2021-05-07T07:13:56Z",
         "properties": {
             "id": "active_edge_system_mod",
             "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v76",
-            "versionCode": "76",
-            "author": "j to the 4n, mikalovtch",
+            "version": "v77",
+            "versionCode": "77",
+            "author": "j to the 4n, i5lee8bit, mikalovtch",
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
     },
@@ -807,12 +807,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-05-05T08:12:36Z",
+        "last_updated": "2021-05-07T13:38:23Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v25.4.3.r423.420da2f",
-            "versionCode": "423",
+            "version": "v25.4.4.r426.05efc94",
+            "versionCode": "426",
             "author": "Rikka",
             "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server.",
             "riruApi": "25",
@@ -1128,12 +1128,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-04-08T15:37:48Z",
+        "last_updated": "2021-05-07T00:47:33Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "8.1.4",
-            "versionCode": "4046",
+            "version": "9.0.1",
+            "versionCode": "4055",
             "author": "Androidacy",
             "description": "Change System WebView and default browser systemless-ly, on any ROM. You can block ads and fingerprinting, increase privacy, and more. Website: www.androidacy.com."
         }
@@ -1242,12 +1242,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-05-06T22:42:29Z",
+        "last_updated": "2021-05-07T00:56:54Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v4.0.3",
-            "versionCode": "35",
+            "version": "v4.0.4",
+            "versionCode": "36",
             "author": "Androidacy",
             "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: www.androidacy.com"
         }
@@ -1272,12 +1272,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-04-26T19:50:58Z",
+        "last_updated": "2021-05-08T00:01:06Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.17-1",
-            "versionCode": "142171",
+            "version": "14.2.18-1",
+            "versionCode": "142181",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
