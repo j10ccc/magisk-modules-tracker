@@ -1570,12 +1570,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ccbins",
         "language": "Shell",
-        "last_updated": "2021-02-13T20:55:00Z",
+        "last_updated": "2021-05-10T18:02:15Z",
         "properties": {
             "id": "ccbins",
             "name": "Cross Compiled Binaries",
-            "version": "v7.1",
-            "versionCode": "8",
+            "version": "v7.2",
+            "versionCode": "9",
             "author": "Zackptg5",
             "description": "A growing collection of cross compiled binaries for android"
         }
