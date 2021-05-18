@@ -620,7 +620,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-05-16T21:54:10Z",
+        "last_updated": "2021-05-17T12:44:19Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -634,12 +634,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex",
         "language": "Shell",
-        "last_updated": "2021-05-13T20:01:27Z",
+        "last_updated": "2021-05-17T12:39:58Z",
         "properties": {
             "id": "callrecorder-skvalex",
             "name": "Call Recorder - SKVALEX",
-            "version": "2.1.0 (3.4.5-1)",
-            "versionCode": "36",
+            "version": "2.1.0 (3.4.6)",
+            "versionCode": "37",
             "author": "skvalex",
             "description": "App to record phone calls from the line with a power of root and Magisk"
         }
