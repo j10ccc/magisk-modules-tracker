@@ -463,7 +463,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/ssh",
         "language": "Shell",
-        "last_updated": "2021-04-30T19:02:48Z",
+        "last_updated": "2021-05-20T17:01:47Z",
         "properties": {
             "id": "ssh",
             "name": "SSH for Magisk",
