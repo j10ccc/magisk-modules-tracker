@@ -289,11 +289,11 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-05-09T17:11:06Z",
+        "last_updated": "2021-05-22T21:09:52Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v127",
+            "version": "v5.4.0-v128",
             "versionCode": "68",
             "author": "Didgeridoohan",
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
@@ -620,7 +620,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-05-17T12:44:19Z",
+        "last_updated": "2021-05-22T09:35:33Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
@@ -1554,12 +1554,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-05-19T06:47:44Z",
+        "last_updated": "2021-05-22T13:13:32Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.0 (5666)",
-            "versionCode": "5666",
+            "version": "v1.4.1 (5698)",
+            "versionCode": "5698",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 1. Requires Riru 25.0.1 or above installed."
         }
