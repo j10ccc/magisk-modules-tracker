@@ -1419,12 +1419,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-05-25T21:22:43Z",
+        "last_updated": "2021-05-26T19:41:16Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
-            "version": "v9.0",
-            "versionCode": "25",
+            "version": "v9.2",
+            "versionCode": "27",
             "author": "DanGLES3",
             "description": "Customize Android 10-11's navigation gestures "
         }
