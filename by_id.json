@@ -1327,7 +1327,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-05-26T19:41:16Z",
+        "last_updated": "2021-05-29T15:17:25Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
@@ -1341,12 +1341,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
-        "last_updated": "2021-03-06T06:41:11Z",
+        "last_updated": "2021-05-29T07:13:43Z",
         "properties": {
             "id": "microg_installer",
             "name": "microG Installer Revived",
-            "version": "Revived 1.11.0-0",
-            "versionCode": "11100",
+            "version": "Revived 1.12.0-0",
+            "versionCode": "11200",
             "author": "nift4 (prev. Hieu Van)",
             "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app"
         }
@@ -1553,12 +1553,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-05-23T13:30:00Z",
+        "last_updated": "2021-05-29T17:54:31Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.2 (5711)",
-            "versionCode": "5711",
+            "version": "v1.4.3 (5728)",
+            "versionCode": "5728",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 1. Requires Riru 25.0.1 or above installed."
         }
