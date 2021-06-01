@@ -508,14 +508,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/twrp-keep",
         "language": "Shell",
-        "last_updated": "2021-04-26T17:41:10Z",
+        "last_updated": "2021-05-31T03:37:02Z",
         "properties": {
             "id": "twrp-keep",
             "name": "TWRP A/B Retention Script",
             "version": "Magisk",
             "versionCode": "1",
             "author": "osm0sis @ xda-developers",
-            "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from Manager",
+            "description": "Keep TWRP installed after an A/B OTA - Flash this after each OTA has installed, but before you install Magisk to Inactive Slot from the Magisk app",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
             "donate": "https://www.paypal.me/osm0sis",
             "minMagisk": "1500"
@@ -800,12 +800,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/zipsigner",
         "language": "Shell",
-        "last_updated": "2021-03-30T05:39:28Z",
+        "last_updated": "2021-05-31T03:37:58Z",
         "properties": {
             "id": "zipsigner",
             "name": "ZipSigner & Zip for Android NDK",
             "version": "3.0",
-            "versionCode": "3014",
+            "versionCode": "3015",
             "author": "osm0sis & topjohnwu @ xda-developers",
             "description": "Wrapped dexed zipsigner.jar, and static ARM zip and zipalign binaries for Android built with the NDK",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
@@ -1419,7 +1419,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-05-29T15:17:25Z",
+        "last_updated": "2021-05-31T07:14:24Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
@@ -1661,12 +1661,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-05-29T17:54:31Z",
+        "last_updated": "2021-05-31T06:41:15Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.3 (5728)",
-            "versionCode": "5728",
+            "version": "v1.4.4 (5737)",
+            "versionCode": "5737",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 1. Requires Riru 25.0.1 or above installed."
         }
