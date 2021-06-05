@@ -4,7 +4,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/terminal_debloater",
         "language": "Shell",
-        "last_updated": "2020-01-04T10:39:40Z",
+        "last_updated": "2021-06-04T02:47:42Z",
         "properties": {
             "id": "terminal_debloater",
             "name": "Debloater (Terminal Emulator)",
@@ -1509,14 +1509,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/NfcScreenOff",
         "language": "Shell",
-        "last_updated": "2021-03-12T23:22:26Z",
+        "last_updated": "2021-06-04T22:32:42Z",
         "properties": {
             "id": "NFCScreenOff",
             "name": "NFC Screen Off",
-            "version": "v0.3.1",
-            "versionCode": "31",
+            "version": "v0.3.2",
+            "versionCode": "32",
             "author": "lapwat",
-            "description": "Read NFC tags when screen is off."
+            "description": "Read NFC tags when screen is off. Disable NFC tagging sound."
         }
     },
     {
