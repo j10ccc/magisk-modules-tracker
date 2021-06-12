@@ -1661,14 +1661,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-05-31T06:41:15Z",
+        "last_updated": "2021-06-11T18:29:37Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.4 (5737)",
-            "versionCode": "5737",
+            "version": "v1.4.5 (5767)",
+            "versionCode": "5767",
             "author": "LSPosed Developers",
-            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 1. Requires Riru 25.0.1 or above installed."
+            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 2. Requires Riru 25.0.1 or above installed."
         }
     }
 ]
