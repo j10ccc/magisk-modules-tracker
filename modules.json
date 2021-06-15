@@ -1235,7 +1235,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-04-26T16:40:44Z",
+        "last_updated": "2021-06-14T06:33:27Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
