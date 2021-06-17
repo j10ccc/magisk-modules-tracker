@@ -134,12 +134,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/nano-ndk",
         "language": "Shell",
-        "last_updated": "2021-04-30T23:42:35Z",
+        "last_updated": "2021-06-16T21:54:44Z",
         "properties": {
             "id": "nano-ndk",
             "name": "Nano for Android NDK",
-            "version": "5.7",
-            "versionCode": "5700",
+            "version": "5.8",
+            "versionCode": "5800",
             "author": "osm0sis @ xda-developers",
             "description": "Static ARM nano binary for Android built with the NDK",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
@@ -1205,14 +1205,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-05-25T18:38:18Z",
+        "last_updated": "2021-06-15T20:39:00Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "9.2.1",
-            "versionCode": "4070",
+            "version": "9.2.2",
+            "versionCode": "4071",
             "author": "Androidacy",
-            "description": "Change System WebView and default browser systemless-ly, on any ROM. You can block ads and fingerprinting, increase privacy, and more. Website: www.androidacy.com."
+            "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website: https://www.androidacy.com; Group: https://t.me/androidacy_discussions; Announcements: https://t.me/androidacy"
         }
     },
     {
@@ -1327,14 +1327,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-05-25T18:39:46Z",
+        "last_updated": "2021-06-15T20:39:34Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v4.2.14",
-            "versionCode": "71",
+            "version": "v4.2.15",
+            "versionCode": "72",
             "author": "Androidacy",
-            "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: www.androidacy.com and channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
+            "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo and channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
     },
     {
