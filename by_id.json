@@ -1127,14 +1127,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-06-15T20:39:00Z",
+        "last_updated": "2021-06-17T03:12:24Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "9.2.2",
-            "versionCode": "4071",
+            "version": "9.2.3",
+            "versionCode": "4075",
             "author": "Androidacy",
-            "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website: https://www.androidacy.com; Group: https://t.me/androidacy_discussions; Announcements: https://t.me/androidacy"
+            "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website: https://www.androidacy.com/?utm_source=mrepo; Group: https://t.me/androidacy_discussions; Announcements: https://t.me/androidacy"
         }
     },
     "PIXELARITY": {
@@ -1241,12 +1241,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-06-15T20:39:34Z",
+        "last_updated": "2021-06-17T03:00:07Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v4.2.15",
-            "versionCode": "72",
+            "version": "v4.2.16",
+            "versionCode": "73",
             "author": "Androidacy",
             "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo and channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
