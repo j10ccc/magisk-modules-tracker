@@ -309,7 +309,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-06-20T22:45:47Z",
+        "last_updated": "2021-06-21T13:46:29Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -678,12 +678,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/callrecorder-skvalex",
         "language": "Shell",
-        "last_updated": "2021-05-25T21:38:37Z",
+        "last_updated": "2021-06-21T16:23:34Z",
         "properties": {
             "id": "callrecorder-skvalex",
             "name": "Call Recorder - SKVALEX",
-            "version": "2.1.0 (3.4.7)",
-            "versionCode": "38",
+            "version": "2.1.0 (3.4.8)",
+            "versionCode": "39",
             "author": "skvalex",
             "description": "App to record phone calls from the line with a power of root and Magisk"
         }
