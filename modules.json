@@ -663,12 +663,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-06-29T09:35:27Z",
+        "last_updated": "2021-06-30T18:28:37Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
-            "version": "v5.1",
-            "versionCode": "511",
+            "version": "v5.2",
+            "versionCode": "520",
             "author": "hinxnz, Rom, Sobuj53",
             "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk."
         }
@@ -1661,12 +1661,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-06-11T18:29:37Z",
+        "last_updated": "2021-06-30T02:37:11Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.5 (5767)",
-            "versionCode": "5767",
+            "version": "v1.4.6 (5800)",
+            "versionCode": "5800",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 2. Requires Riru 25.0.1 or above installed."
         }
