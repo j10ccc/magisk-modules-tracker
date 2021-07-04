@@ -800,12 +800,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/zipsigner",
         "language": "Shell",
-        "last_updated": "2021-05-31T03:37:58Z",
+        "last_updated": "2021-07-03T04:08:04Z",
         "properties": {
             "id": "zipsigner",
             "name": "ZipSigner & Zip for Android NDK",
             "version": "3.0",
-            "versionCode": "3015",
+            "versionCode": "3016",
             "author": "osm0sis & topjohnwu @ xda-developers",
             "description": "Wrapped dexed zipsigner.jar, and static ARM zip and zipalign binaries for Android built with the NDK",
             "support": "https://forum.xda-developers.com/showthread.php?t=2239421",
@@ -1327,12 +1327,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-06-17T03:00:07Z",
+        "last_updated": "2021-07-02T10:54:09Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
             "version": "v4.2.16",
-            "versionCode": "73",
+            "versionCode": "74",
             "author": "Androidacy",
             "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo and channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
@@ -1524,7 +1524,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-04-29T15:57:49Z",
+        "last_updated": "2021-07-03T15:33:27Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
