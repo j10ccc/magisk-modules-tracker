@@ -663,12 +663,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Detach",
         "language": "Shell",
-        "last_updated": "2021-07-01T08:06:08Z",
+        "last_updated": "2021-07-07T17:36:32Z",
         "properties": {
             "id": "Detach",
             "name": "Detach",
-            "version": "v5.2",
-            "versionCode": "520",
+            "version": "v5.3",
+            "versionCode": "530",
             "author": "hinxnz, Rom, Sobuj53",
             "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk."
         }
@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-05-08T00:01:06Z",
+        "last_updated": "2021-07-07T03:36:43Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "14.2.18-1",
-            "versionCode": "142181",
+            "version": "15.0.0-1",
+            "versionCode": "15001",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
