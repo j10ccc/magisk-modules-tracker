@@ -246,12 +246,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
-        "last_updated": "2021-06-12T08:37:09Z",
+        "last_updated": "2021-07-14T09:11:19Z",
         "properties": {
             "id": "active_edge_system_mod",
             "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v78",
-            "versionCode": "78",
+            "version": "v79",
+            "versionCode": "79",
             "author": "j to the 4n, i5lee8bit, mikalovtch",
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
@@ -1155,12 +1155,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-06-28T09:02:06Z",
+        "last_updated": "2021-07-14T02:11:29Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
-            "version": "v25.0.8",
-            "versionCode": "71",
+            "version": "v25.0.9",
+            "versionCode": "72",
             "author": "Rikka",
             "description": "Enable Enhanced mode for Storage Isolation v6.0.0 or above. Storage Isolation is an app that allows you control how apps use your files."
         }
@@ -1271,12 +1271,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-07-13T01:13:08Z",
+        "last_updated": "2021-07-14T23:04:13Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.4-1",
-            "versionCode": "15041",
+            "version": "15.0.8-1",
+            "versionCode": "15081",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
