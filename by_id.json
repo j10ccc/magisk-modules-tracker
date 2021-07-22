@@ -17,12 +17,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/Fdroid-Priv",
         "language": "Shell",
-        "last_updated": "2021-03-06T02:24:24Z",
+        "last_updated": "2021-07-21T11:08:10Z",
         "properties": {
             "id": "Fdroid-Priv",
             "name": "F-Droid Privileged Extension",
-            "version": "2019-11-23",
-            "versionCode": "18",
+            "version": "2021-07-21",
+            "versionCode": "19",
             "author": "Ryaniskira",
             "description": "Installs F-Droid Privileged Extension systemlessly"
         }
@@ -1327,12 +1327,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-06-22T22:53:43Z",
+        "last_updated": "2021-07-21T03:07:32Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
-            "version": "v9.3-hotfix",
-            "versionCode": "29",
+            "version": "v9.4",
+            "versionCode": "30",
             "author": "DanGLES3",
             "description": "Customize Android 10-12's navigation gestures "
         }
