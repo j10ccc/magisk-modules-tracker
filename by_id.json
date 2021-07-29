@@ -289,7 +289,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-07-17T05:38:58Z",
+        "last_updated": "2021-07-28T15:53:11Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -662,14 +662,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/djs",
         "language": "Shell",
-        "last_updated": "2019-07-01T11:11:37Z",
+        "last_updated": "2021-07-28T14:29:13Z",
         "properties": {
             "id": "djs",
-            "name": "Daily Job Scheduler (djs)",
-            "version": "2019.7.1",
-            "versionCode": "201907010",
-            "author": "VR25 (xda-developers.com)",
-            "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. A recent stable Magisk version is recommended. Refer to README.md for details. If you are in Magisk Manager > Downloads, click here to open the documentation."
+            "name": "Daily Job Scheduler (DJS)",
+            "version": "2021.7.28",
+            "versionCode": "202107280",
+            "author": "VR25",
+            "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
         }
     },
     "IPControl": {
@@ -823,15 +823,15 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/acc",
         "language": "Shell",
-        "last_updated": "2021-02-25T12:29:47Z",
+        "last_updated": "2021-07-28T19:06:46Z",
         "properties": {
             "id": "acc",
             "domain": "vr25",
             "name": "Advanced Charging Controller (ACC)",
-            "version": "v2021.2.25",
-            "versionCode": "202102250",
+            "version": "v2021.7.28.1",
+            "versionCode": "202107281",
             "author": "VR25",
-            "description": "ACC is an Android software mainly intended for extending battery service life. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"systemless\", whether or not the system is rooted with Magisk. If you're reading this from Magisk Manager > Downloads, tap here to open the documentation. Once there, if you feel lazy, scroll down to the quick start section."
+            "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
         }
     },
     "riru_edxposed": {
@@ -1271,12 +1271,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-07-26T20:41:28Z",
+        "last_updated": "2021-07-28T14:47:08Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.9-1",
-            "versionCode": "15091",
+            "version": "15.0.10-1",
+            "versionCode": "150101",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
@@ -1425,7 +1425,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-07-03T15:33:27Z",
+        "last_updated": "2021-07-29T00:00:11Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
