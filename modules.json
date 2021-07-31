@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-07-29T22:48:48Z",
+        "last_updated": "2021-07-30T01:19:47Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.11-1",
-            "versionCode": "150111",
+            "version": "15.0.12-1",
+            "versionCode": "150121",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
