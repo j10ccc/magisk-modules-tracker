@@ -1080,14 +1080,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
         "language": "Shell",
-        "last_updated": "2021-01-11T09:05:31Z",
+        "last_updated": "2021-07-31T14:53:28Z",
         "properties": {
             "id": "com.piyushgarg.rclone",
             "name": "rclone-mount",
-            "modVer": "1.13",
-            "BinVer": "1.53.0",
-            "version": "rclone: (v1.53.0) mod: (v1.13)",
-            "versionCode": "113",
+            "modVer": "1.14",
+            "BinVer": "1.56.0",
+            "version": "rclone: (v1.56.0) mod: (v1.14)",
+            "versionCode": "114",
             "author": "piyushgarg @ github.com",
             "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info."
         }
@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-07-30T01:19:47Z",
+        "last_updated": "2021-07-31T01:47:28Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.12-1",
-            "versionCode": "150121",
+            "version": "15.0.13-1",
+            "versionCode": "150131",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
@@ -1419,7 +1419,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-07-21T03:07:32Z",
+        "last_updated": "2021-07-31T05:45:47Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
