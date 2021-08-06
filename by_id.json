@@ -289,7 +289,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-07-29T10:00:17Z",
+        "last_updated": "2021-08-05T12:15:55Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -807,16 +807,16 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-05-07T13:38:23Z",
+        "last_updated": "2021-08-05T12:49:59Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v25.4.4.r426.05efc94",
-            "versionCode": "426",
+            "version": "v26.0.5.r484.a8c93a12f8",
+            "versionCode": "484",
             "author": "Rikka",
-            "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server.",
-            "riruApi": "25",
-            "riruMinApi": "9"
+            "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+            "riruApi": "26",
+            "riruMinApi": "24"
         }
     },
     "acc": {
@@ -1010,7 +1010,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
         "language": "Shell",
-        "last_updated": "2021-07-31T14:53:28Z",
+        "last_updated": "2021-08-05T12:49:32Z",
         "properties": {
             "id": "com.piyushgarg.rclone",
             "name": "rclone-mount",
