@@ -708,12 +708,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/djs",
         "language": "Shell",
-        "last_updated": "2021-08-02T11:26:10Z",
+        "last_updated": "2021-08-09T18:04:58Z",
         "properties": {
             "id": "djs",
             "name": "Daily Job Scheduler (DJS)",
-            "version": "2021.8.2",
-            "versionCode": "202108020",
+            "version": "v2021.8.9.1",
+            "versionCode": "202108091",
             "author": "VR25",
             "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
         }
@@ -1419,7 +1419,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-08-07T07:33:35Z",
+        "last_updated": "2021-08-09T22:35:47Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
