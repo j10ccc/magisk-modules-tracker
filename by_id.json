@@ -246,12 +246,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
-        "last_updated": "2021-07-14T09:11:19Z",
+        "last_updated": "2021-08-11T07:10:31Z",
         "properties": {
             "id": "active_edge_system_mod",
             "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v79",
-            "versionCode": "79",
+            "version": "v80",
+            "versionCode": "80",
             "author": "j to the 4n, i5lee8bit, mikalovtch",
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
@@ -289,11 +289,11 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-08-05T12:15:55Z",
+        "last_updated": "2021-08-11T08:50:30Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v129",
+            "version": "v5.4.0-v130",
             "versionCode": "68",
             "author": "Didgeridoohan",
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
