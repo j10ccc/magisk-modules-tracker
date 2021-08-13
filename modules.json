@@ -309,7 +309,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-08-11T08:50:30Z",
+        "last_updated": "2021-08-12T07:42:23Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-07-31T01:47:28Z",
+        "last_updated": "2021-08-12T23:27:53Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.13-1",
-            "versionCode": "150131",
+            "version": "15.0.14-1",
+            "versionCode": "150141",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
