@@ -309,12 +309,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-08-12T07:42:23Z",
+        "last_updated": "2021-08-14T14:32:45Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
-            "version": "v5.4.0-v130",
-            "versionCode": "68",
+            "version": "v5.4.1-v131",
+            "versionCode": "69",
             "author": "Didgeridoohan",
             "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset prop values set by MagiskHide. Change any prop values easily, and set your own custom props."
         }
@@ -1661,14 +1661,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-07-01T05:05:19Z",
+        "last_updated": "2021-08-14T16:44:19Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.4.7 (5803)",
-            "versionCode": "5803",
+            "version": "v1.5.0 (5880)",
+            "versionCode": "5880",
             "author": "LSPosed Developers",
-            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 2. Requires Riru 25.0.1 or above installed."
+            "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 4. Requires Riru 25.0.1 or above installed."
         }
     }
 ]
