@@ -263,12 +263,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/active_edge_system_mod",
         "language": "Shell",
-        "last_updated": "2021-08-11T07:10:31Z",
+        "last_updated": "2021-08-15T20:10:32Z",
         "properties": {
             "id": "active_edge_system_mod",
             "name": "[Re-continued]Active Edge Mod for Pixel devices",
-            "version": "v80",
-            "versionCode": "80",
+            "version": "v82",
+            "versionCode": "82",
             "author": "j to the 4n, i5lee8bit, mikalovtch",
             "description": "Allows customization of Active Edge in combination with Edge Sense Plus"
         }
@@ -1419,7 +1419,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-08-09T22:35:47Z",
+        "last_updated": "2021-08-15T21:04:06Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
