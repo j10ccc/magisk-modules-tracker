@@ -1080,14 +1080,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/com.piyushgarg.rclone",
         "language": "Shell",
-        "last_updated": "2021-08-05T12:49:32Z",
+        "last_updated": "2021-08-17T04:50:57Z",
         "properties": {
             "id": "com.piyushgarg.rclone",
             "name": "rclone-mount",
-            "modVer": "1.14",
+            "modVer": "1.15",
             "BinVer": "1.56.0",
-            "version": "rclone: (v1.56.0) mod: (v1.14)",
-            "versionCode": "114",
+            "version": "rclone: (v1.56.0) mod: (v1.15)",
+            "versionCode": "115",
             "author": "piyushgarg @ github.com",
             "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info."
         }
@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-08-12T23:27:53Z",
+        "last_updated": "2021-08-17T19:26:47Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.14-1",
-            "versionCode": "150141",
+            "version": "15.0.15-1",
+            "versionCode": "150151",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
@@ -1661,12 +1661,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-08-14T16:44:19Z",
+        "last_updated": "2021-08-17T13:27:58Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.5.0 (5880)",
-            "versionCode": "5880",
+            "version": "v1.5.1 (5898)",
+            "versionCode": "5898",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 4. Requires Riru 25.0.1 or above installed."
         }
