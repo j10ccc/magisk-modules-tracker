@@ -863,12 +863,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-core",
         "language": "Shell",
-        "last_updated": "2021-08-16T07:30:26Z",
+        "last_updated": "2021-08-18T06:09:49Z",
         "properties": {
             "id": "riru-core",
             "name": "Riru",
-            "version": "v26.1.0.r497.8b378fc3af",
-            "versionCode": "497",
+            "version": "v26.1.1.r500.45d2706e83",
+            "versionCode": "500",
             "author": "Rikka",
             "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
             "riruApi": "26",
@@ -1205,14 +1205,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-08-08T09:29:46Z",
+        "last_updated": "2021-08-18T16:52:59Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "9.2.3",
-            "versionCode": "4075",
+            "version": "10.0.2",
+            "versionCode": "5005",
             "author": "Androidacy",
-            "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website: https://www.androidacy.com/?utm_source=mrepo; Group: https://t.me/androidacy_discussions; Announcements: https://t.me/androidacy"
+            "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website and how to get support: https://www.androidacy.com/?utm_source=mrepo"
         }
     },
     {
@@ -1327,14 +1327,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-07-02T10:54:09Z",
+        "last_updated": "2021-08-18T17:51:39Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v4.2.16",
-            "versionCode": "74",
+            "version": "v5.1.3",
+            "versionCode": "80",
             "author": "Androidacy",
-            "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo and channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
+            "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo&utm_medium=modules , channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
     },
     {
@@ -1434,14 +1434,14 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
-        "last_updated": "2021-07-09T20:21:50Z",
+        "last_updated": "2021-08-18T08:34:51Z",
         "properties": {
             "id": "microg_installer",
             "name": "microG Installer Revived",
-            "version": "Revived 1.13.0-0",
-            "versionCode": "11300",
-            "author": "nift4 (prev. Hieu Van)",
-            "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app"
+            "version": "Revived 2.2.0",
+            "versionCode": "22000",
+            "author": "nift4 (prev. maintainer: Hieu Van)",
+            "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app and MapsV1 to /system/framework"
         }
     },
     {
@@ -1524,7 +1524,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher",
         "language": "Shell",
-        "last_updated": "2021-07-29T00:00:11Z",
+        "last_updated": "2021-08-18T14:19:31Z",
         "properties": {
             "id": "BluetoothLibraryPatcher",
             "name": "Bluetooth Library Patcher",
