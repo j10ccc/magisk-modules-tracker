@@ -309,7 +309,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf",
         "language": "Shell",
-        "last_updated": "2021-08-14T14:32:45Z",
+        "last_updated": "2021-08-19T13:40:25Z",
         "properties": {
             "id": "MagiskHidePropsConf",
             "name": "MagiskHide Props Config",
@@ -478,7 +478,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/terminalmods",
         "language": "Shell",
-        "last_updated": "2020-12-17T13:57:50Z",
+        "last_updated": "2021-08-19T08:41:52Z",
         "properties": {
             "id": "terminalmods",
             "name": "Terminal Modifications",
@@ -1205,12 +1205,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-08-18T16:52:59Z",
+        "last_updated": "2021-08-19T05:08:10Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "10.0.2",
-            "versionCode": "5005",
+            "version": "10.0.3",
+            "versionCode": "5007",
             "author": "Androidacy",
             "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website and how to get support: https://www.androidacy.com/?utm_source=mrepo"
         }
@@ -1327,12 +1327,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-08-18T17:51:39Z",
+        "last_updated": "2021-08-19T05:07:30Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v5.1.3",
-            "versionCode": "80",
+            "version": "v5.1.4",
+            "versionCode": "82",
             "author": "Androidacy",
             "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?utm_source=mrepo&utm_medium=modules , channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
@@ -1359,12 +1359,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-08-17T19:26:47Z",
+        "last_updated": "2021-08-20T00:10:08Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.15-1",
-            "versionCode": "150151",
+            "version": "15.0.16-1",
+            "versionCode": "150161",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
