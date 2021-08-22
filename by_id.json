@@ -1127,12 +1127,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/bromitewebview",
         "language": "Shell",
-        "last_updated": "2021-08-20T03:20:31Z",
+        "last_updated": "2021-08-21T17:31:08Z",
         "properties": {
             "id": "bromitewebview",
             "name": "Webview Manager",
-            "version": "10.0.4",
-            "versionCode": "5008",
+            "version": "10.0.5",
+            "versionCode": "5010",
             "author": "Androidacy",
             "description": "Change System WebView and default browser systemless-ly. Block ads and fingerprinting, increase privacy, and more. Website and how to get support: https://www.androidacy.com/?f=wmv%20prop"
         }
@@ -1241,12 +1241,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/fontrevival",
         "language": "Shell",
-        "last_updated": "2021-08-20T04:15:06Z",
+        "last_updated": "2021-08-21T18:51:14Z",
         "properties": {
             "id": "fontrevival",
             "name": "Font Manager",
-            "version": "v5.1.6",
-            "versionCode": "85",
+            "version": "v5.1.7",
+            "versionCode": "88",
             "author": "Androidacy",
             "description": "The best way to theme fonts and emojis. with over 200 choices and counting! Website: https://www.androidacy.com/?f=fm%20prop , channel: https://t.me/androidacy and group https://t.me/androidacy_discussions"
         }
@@ -1271,12 +1271,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-08-20T00:10:08Z",
+        "last_updated": "2021-08-21T01:23:53Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.16-1",
-            "versionCode": "150161",
+            "version": "15.0.17-1",
+            "versionCode": "150171",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
