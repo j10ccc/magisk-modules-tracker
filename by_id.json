@@ -662,12 +662,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/djs",
         "language": "Shell",
-        "last_updated": "2021-08-09T18:04:58Z",
+        "last_updated": "2021-08-23T18:31:22Z",
         "properties": {
             "id": "djs",
             "name": "Daily Job Scheduler (DJS)",
-            "version": "v2021.8.9.1",
-            "versionCode": "202108091",
+            "version": "v2021.8.23",
+            "versionCode": "202108230",
             "author": "VR25",
             "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
         }
@@ -1271,12 +1271,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/magisk-frida",
         "language": "Shell",
-        "last_updated": "2021-08-21T01:23:53Z",
+        "last_updated": "2021-08-23T23:18:31Z",
         "properties": {
             "id": "magisk-frida",
             "name": "MagiskFrida",
-            "version": "15.0.17-1",
-            "versionCode": "150171",
+            "version": "15.0.18-1",
+            "versionCode": "150181",
             "author": "ViRb3",
             "description": "Run frida-server on boot"
         }
