@@ -1434,12 +1434,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/microG_installer",
         "language": "Shell",
-        "last_updated": "2021-08-18T08:34:51Z",
+        "last_updated": "2021-08-24T15:39:36Z",
         "properties": {
             "id": "microg_installer",
             "name": "microG Installer Revived",
-            "version": "Revived 2.2.0",
-            "versionCode": "22000",
+            "version": "Revived 2.2.1-0",
+            "versionCode": "22100",
             "author": "nift4 (prev. maintainer: Hieu Van)",
             "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app and MapsV1 to /system/framework"
         }
