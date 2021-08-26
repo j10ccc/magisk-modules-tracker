@@ -1327,7 +1327,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-08-15T21:04:06Z",
+        "last_updated": "2021-08-25T21:26:40Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
@@ -1539,12 +1539,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-03-22T10:55:48Z",
+        "last_updated": "2021-08-25T13:10:44Z",
         "properties": {
             "id": "riru-sui",
-            "name": "Riru - Sui",
-            "version": "v11.6.0.r122.aeb57f9",
-            "versionCode": "122",
+            "name": "Sui",
+            "version": "v12.1.1",
+            "versionCode": "189",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above."
         }
