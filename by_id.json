@@ -662,12 +662,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/djs",
         "language": "Shell",
-        "last_updated": "2021-08-23T18:31:22Z",
+        "last_updated": "2021-08-26T18:44:12Z",
         "properties": {
             "id": "djs",
             "name": "Daily Job Scheduler (DJS)",
-            "version": "v2021.8.23",
-            "versionCode": "202108230",
+            "version": "v2021.8.26",
+            "versionCode": "202108260",
             "author": "VR25",
             "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk."
         }
@@ -1539,12 +1539,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-08-25T13:10:44Z",
+        "last_updated": "2021-08-26T06:29:38Z",
         "properties": {
             "id": "riru-sui",
             "name": "Sui",
-            "version": "v12.1.1",
-            "versionCode": "189",
+            "version": "v12.1.3",
+            "versionCode": "199",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above."
         }
@@ -1553,12 +1553,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_lsposed",
         "language": "Shell",
-        "last_updated": "2021-08-17T13:27:58Z",
+        "last_updated": "2021-08-26T14:09:54Z",
         "properties": {
             "id": "riru_lsposed",
             "name": "Riru - LSPosed",
-            "version": "v1.5.1 (5898)",
-            "versionCode": "5898",
+            "version": "v1.5.2 (5964)",
+            "versionCode": "5964",
             "author": "LSPosed Developers",
             "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12 Beta 4. Requires Riru 25.0.1 or above installed."
         }
