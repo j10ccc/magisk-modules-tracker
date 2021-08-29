@@ -38,13 +38,16 @@ def push_files():
     git add - git commit - git push
     """
     now = datetime.now().strftime("%d/%m/%y %H:%M:%S")
-    run(["git", "config", "user.name", '"Divkix"'])
-    run(["git", "config", "user.email", '"techdroidroot@gmail.com"'])
-    run(["git", "add", "modules.json", "by_id.json", "modules_list.json"])
-    run(["git", "commit", "-m", f"Automated Sync: {now}"])
-    run(["git", "push"])
-    print("Pushed to remote")
-
+    try:
+        run(["git", "config", "user.name", '"Divkix"'])
+        run(["git", "config", "user.email", '"23524935+Divkix@users.noreply.github.com"'])
+        run(["git", "add", "modules.json", "by_id.json", "modules_list.json"])
+        run(["git", "commit", "-m", f"[skip ci] Automated Sync: {now}"])
+        run(["git", "push"])
+        print("Pushed to remote")
+    except:
+        print("Failed to push to remote.")
+        exit()
 
 def get_api_data():
     print("Getting data from Official API...")

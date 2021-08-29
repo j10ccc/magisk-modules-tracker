@@ -1,0 +1,35 @@
+version: 2.1
+
+orbs:
+  python: circleci/python@1.4.0
+
+workflows:
+  Push:
+    jobs:
+     - update-job
+  Automated-Sync:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"  # once a day
+          filters:
+            branches:
+              only:
+                - main
+    jobs:
+      - update-job
+
+jobs:
+  update-job:
+    docker:
+      - image: cimg/python:3.9
+    resource_class: small
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "6b:8f:93:d0:11:1d:74:95:9c:66:b3:6b:21:d6:62:70"
+      - python/install-packages:
+          pkg-manager: pip
+      - run:
+          name: Update Process
+          command: python3 modules_tracker.py

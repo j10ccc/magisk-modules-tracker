@@ -916,7 +916,7 @@
         "last_updated": "2021-04-15T11:47:51Z",
         "properties": {
             "id": "xmlpak",
-            "name": "xmlpak \u00e2\u20ac\u201c a road to vendor apps",
+            "name": "xmlpak \u2013 a road to vendor apps",
             "version": "v3.6",
             "versionCode": "36",
             "author": "Tadi (j1505243 at xda)",
@@ -1419,7 +1419,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-08-25T21:26:40Z",
+        "last_updated": "2021-08-29T03:54:10Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
