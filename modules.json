@@ -1646,12 +1646,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru-sui",
         "language": "Shell",
-        "last_updated": "2021-08-26T06:29:38Z",
+        "last_updated": "2021-08-28T09:41:03Z",
         "properties": {
             "id": "riru-sui",
             "name": "Sui",
-            "version": "v12.1.3",
-            "versionCode": "199",
+            "version": "v12.1.4",
+            "versionCode": "202",
             "author": "Rikka",
             "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above."
         }
