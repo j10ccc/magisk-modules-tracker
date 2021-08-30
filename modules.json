@@ -880,7 +880,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/acc",
         "language": "Shell",
-        "last_updated": "2021-08-04T19:24:13Z",
+        "last_updated": "2021-08-29T19:43:05Z",
         "properties": {
             "id": "acc",
             "domain": "vr25",
@@ -1235,7 +1235,7 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/riru_storage_redirect",
         "language": "Shell",
-        "last_updated": "2021-07-14T02:11:29Z",
+        "last_updated": "2021-08-29T14:59:55Z",
         "properties": {
             "id": "riru_storage_redirect",
             "name": "Riru - Enhanced mode for Storage Isolation",
@@ -1419,12 +1419,12 @@
         "branch": "master",
         "url": "https://github.com/Magisk-Modules-Repo/HideNavBar",
         "language": "Shell",
-        "last_updated": "2021-08-29T03:54:10Z",
+        "last_updated": "2021-08-29T15:35:10Z",
         "properties": {
             "id": "HideNavBar",
             "name": "Fullscreen/Immersive Gestures (Q-S)",
-            "version": "v9.4",
-            "versionCode": "30",
+            "version": "v9.5",
+            "versionCode": "31",
             "author": "DanGLES3",
             "description": "Customize Android 10-12's navigation gestures "
         }
